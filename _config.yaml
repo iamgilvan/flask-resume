@@ -154,8 +154,7 @@ projects:
     title: flask resume template
     subtitle: A resume template built with Flask
     description: An easy-to-configure simple resume template built with Flask and Bootstrap.
-    link: https://flask-resume-template.glitch.me
-    github: https://github.com/RodolfoFerro/flask-resume-template/
+    github: https://github.com/iamgilvan/flask-resume
     tags: [Flask, Python, Bootstrap]
   item3:
     title: TDD Python Example
