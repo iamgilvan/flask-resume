@@ -8,7 +8,7 @@
   <meta name="description" content="A simple resume template built with Flask, based on Start Bootstrap resume template.">
   <meta name="author" content="Gilvan Almeida <gilvan.almeida@outlook.com>">
 
-  <title>Portfolio - {{ data.profile.first_name }} {{ data.profile.last_name }}</title>
+  <title>Hi! I'm {{ data.profile.first_name }} {{ data.profile.last_name }}! | {{ data.profile.first_name }} {{ data.profile.last_name }}</title>
 
   <!-- Bootstrap core CSS -->
   <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -42,13 +42,13 @@
           <a class="nav-link js-scroll-trigger" href="#about">About</a>
         </li>
         <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+        </li>
+        <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
         </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#education">Education</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
         </li>
         <li class="nav-item">
           <a class="nav-link js-scroll-trigger" href="#workshops">Events</a>
@@ -90,6 +90,31 @@
         {% endif %}
         {% endfor %}
         </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+      <div class="w-100">
+        <h2 class="mb-5">Skills</h2>
+
+        <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+        <ul class="list-inline dev-icons">
+          {% for _, item in data.tools.items() %}
+          <li class="list-inline-item">
+            <i> <img src="https://img.icons8.com/color/48/000000/{{ item.img }}.png" title="{{ item.title }}"/> </i>
+          </li>
+          {% endfor %}
+        </ul>
+        <div class="subheading mb-3">Extra skills / knowledge</div>
+        <ul class="fa-ul mb-0">
+          {% for item in data.extra_skills %}
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            {{ item }}</li>
+          {% endfor %}
+        </ul>
       </div>
     </section>
 
@@ -144,31 +169,6 @@
         <p>For a detailed reference about this section, please visit <a href="{{ item }}" target="_blank">this link</a>.</p>
         {% endif %}
         {% endfor %}
-      </div>
-    </section>
-
-    <hr class="m-0">
-
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
-      <div class="w-100">
-        <h2 class="mb-5">Skills</h2>
-
-        <div class="subheading mb-3">Programming Languages &amp; Tools</div>
-        <ul class="list-inline dev-icons">
-          {% for _, item in data.tools.items() %}
-          <li class="list-inline-item">
-            <i> <img src="https://img.icons8.com/color/48/000000/{{ item.img }}.png" title="{{ item.title }}"/> </i>
-          </li>
-          {% endfor %}
-        </ul>
-        <div class="subheading mb-3">Extra skills / knowledge</div>
-        <ul class="fa-ul mb-0">
-          {% for item in data.extra_skills %}
-          <li>
-            <i class="fa-li fa fa-check"></i>
-            {{ item }}</li>
-          {% endfor %}
-        </ul>
       </div>
     </section>
 
