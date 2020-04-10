@@ -99,11 +99,12 @@
       <div class="w-100">
         <h2 class="mb-5">Skills</h2>
 
-        <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+        <div class="subheading mb-3 ">Programming Languages &amp; Tools <i class="fa fa-question-circle" data-toggle="tooltip" style="font-size:24px " title="Mouse over the icons"></i></div>
+
         <ul class="list-inline dev-icons">
           {% for _, item in data.tools.items() %}
           <li class="list-inline-item">
-            <i> <img src="https://img.icons8.com/color/48/000000/{{ item.img }}.png" title="{{ item.title }}"/> </i>
+            <i> <img  data-toggle="tooltip" src="https://img.icons8.com/color/48/000000/{{ item.img }}.png" title="{{ item.title }}"/> </i>
           </li>
           {% endfor %}
         </ul>
@@ -260,6 +261,12 @@
 
   <!-- Custom scripts for this template -->
   <script src="static/js/resume.min.js"></script>
+
+  <script>
+      $(document).ready(function(){
+        $('[data-toggle="tooltip"]').tooltip();
+      });
+   </script>
 
 </body>
 
