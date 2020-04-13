@@ -11,15 +11,15 @@
   <title>Hi! I'm {{ data.profile.first_name }} {{ data.profile.last_name }}! | {{ data.profile.first_name }} {{ data.profile.last_name }}</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
 
   <!-- Custom fonts for this template -->
   <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
-  <link href="static/vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="{{ url_for('static', filename='vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet">
 
   <!-- Custom styles for this template -->
-  <link href="static/css/resume.css" rel="stylesheet">
+  <link href="{{ url_for('static', filename='css/resume.css') }}" rel="stylesheet">
   <link rel="shortcut icon" href="https://avatars3.githubusercontent.com/u/36435547" type="image/x-icon">
 
 </head>
