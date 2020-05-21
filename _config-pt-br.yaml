@@ -1,0 +1,216 @@
+# Profile section
+profile:
+  first_name: Gilvan
+  last_name: Almeida
+  picture: static/img/perfil.jpg # Local picture
+  contact:
+    address_one: Rio de Janeiro, Brasil
+    address_two:
+    phone: +55 21 982689057
+  email: gilvan.praxedes@outlook.com
+  description: >
+   Sou um cientista da computação, mestrando em Sistemas e Computação pelo Instituto Militar de Engenharia – IME, onde aprofundo meus conhecimentos em técnicas de Machine Learning, graduado em Ciência da Computação pelo Centro Universitário Carioca – Unicarioca(2018).
+   Sou apaixonado por como a tecnologias pode mudar o mundo, entusiasta de linguagens de programação,otimização de processos , ETL e tecnologia em geral. Tento aprender tudo o que posso e aplicá-lo para ajudar as empresas a expandir seus negócios e fazendo isso me divirto. Se você tem um projeto com o qual posso ajudar, entre em contato.
+
+# Social section
+social:
+  github: https://github.com/iamgilvan
+  linkedin: https://www.linkedin.com/in/gilvan-almeida/
+  facebook: https://www.facebook.com/gilvan.praxedes
+  instagram: https://www.instagram.com/gilvanpraxedes/
+  medium: https://medium.com/@iamgilvan
+
+tip: Click no link a esquerda para trocar o idioma.
+# Experience section
+experience:
+  item0:
+    position: Analista de Software
+    company: Radix Engenharia e Software
+    from: Maio 2019
+    to: Atual
+    description: >
+    link: http://www.radixeng.com.br/
+  item1:
+    position: Desenvolvedor de Software 
+    company: BigData Corp.
+    from: Fevereiro 2019
+    to: Abril 2019
+    description: >
+      Desenvolvimento e administração de processos automatizados, API's para gerar relatórios e soluções de business intelligence.
+      Desenvolvimento de serviços baseado em nuvem. Uso maciço de desenvolvimento baseado em serviços em nuvem, como o Amazon Web Services e o Microsoft Azure.
+    link: https://bigdatacorp.com.br/
+  item2:
+    position: Estagiário de Desenvolvimento de Software 
+    company: BigData Corp.
+    from: Setembro 2017
+    to: Janeiro 2019
+    description: >
+      Desenvolvimento de processos automatizados para gerar relatórios e soluções de inteligência de negócios.
+      Desenvolvimento de serviços com base na nuvem.
+      Uso amplo de serviços em nuvem, como Amazon Web Services (S3, SQS, EC2).
+    link: https://bigdatacorp.com.br/
+  item3:
+    position: Bolsista de desenvolvimento web
+    company: Fiocruz
+    from: Novembro 2014
+    to: Setembro 2017
+    description: >
+      Membro da equipe de suporte e desenvolvimento do projeto Repositório Institucional da Fiocruz Arca, no qual armazena toda a produção intelectual, científica e acadêmica da instituição.
+      Execução de análise, depuração, desenvolvimento de script's para a otimização de importação e exportação de registros.
+      Consultas, atualizações, dump e restore no banco de dados.
+    link: https://portal.fiocruz.br/
+
+
+# Education section
+education:
+  item1:
+    institution: Instituto Militar de Engenharia - IME/RJ
+    program:  Mestre em Sistemas e Computação
+    description: Desenvolvimento, análise e pesquisa de técnicas de machine learning.
+    from: Fevereiro 2020
+    to: Atual
+  item2:
+    institution: Centro Universitário Carioca - Unicarioca/RJ
+    program: >
+      Bacharelado em Ciência da Computação
+    description: Computação/Informação, tecnologia, desenvolvimento, administração e gerenciamento.
+    from: Julho 2013
+    to: Dezembro 2018
+
+# Skills section
+tools:
+  # Consider that the following are icons:
+  #   https://icons8.com/icons
+  item1:
+    img: c-sharp-logo-2
+    title: C#
+  item2:
+    img: python
+    title: Python
+  item3:
+    img: mysql-logo
+    title: Mysql
+  item4:
+    img: angularjs
+    title: Angular
+  item5:
+    img: docker
+    title: Docker
+  item6:
+    img: linux
+    title: Linux 
+  item7:
+    img: c-plus-plus-logo
+    title: C++
+  item8:
+    img: django
+    title: Django
+  item9:
+    img: microsoft-sql-server
+    title: Sql Server
+  item10:
+    img: java-coffee-cup-logo
+    title: Java
+  item11:
+    img: amazon-web-services
+    title: AWS Services
+  item12:
+    img: postgreesql
+    title: Postgreesql
+  item13:
+    img: sql
+    title: Sql
+  item14:
+    img: mongodb
+    title: MongoDB
+  item15:
+    img: github
+    title: Git
+
+
+menu:
+  item1:
+    title: Sobre
+  item2:
+    title: Habilidade
+    extraInfo1: Linguagens de Programação e ferramentas
+    extraInfo2: Habilidades extras / Conhecimentos
+    extraInfo3: Passe o mause sobre os ícones
+  item3:
+    title: Experiência
+  item4:
+    title: Educação
+  item5:
+    title: Eventos
+    extraInfo1: Alguns dos recentes eventos em 2020 ...
+  item6:
+    title: Projetos
+    extraInfo1: Esta seção contém alguns projetos que eu desenvolvi e exercitei.
+
+
+extra_skills:
+  - Flask
+  - Web scraping e automação web
+  - APIs e desenvolvimento web
+  - Teste unitário
+  - Solução de problemas
+  - Cloud Computing
+  - Capacidade analítica
+  - Scripting
+  - DevOps
+  - Aprendizagem de máquina
+  - Treinamento e desenvolvimento
+
+
+# Talks and workshops section
+workshops:
+  item0:
+    event: AWS Innovate
+    workshop: AWS Innovate Online Conference, Janeiro 2020.
+    material:
+    link: https://aws.amazon.com/pt/latam-pt-innovate/
+  item1:
+    event: AWS Innovate Edição de machine learning e IA
+    workshop: AWS Innovate Online Conference, Janeiro 2020.
+    material:
+    link: https://aws.amazon.com/pt/events/aws-innovate/machine-learning/
+
+# Projects section
+projects:
+  item1:
+    title: flask currículo template
+    subtitle: Currículo desenvolvido com Flask
+    description: Uma aplicação de simples configuração desenvolvido com Flask.
+    github: https://github.com/iamgilvan/flask-resume
+    tags: [Flask, Python, Bootstrap]
+  item3:
+    title: TDD Python Exemplo
+    subtitle: Teste unitário
+    description: Exemplo de teste unitário com python.
+    github: https://github.com/iamgilvan/tdd-python-example
+    tags: [Python, Unit Test, PyTest]
+  item4:
+    title: Conversão de moedas
+    subtitle:  Conversão entre diferentes moedas
+    description: O principal objetivo dessa api desenvolvida em python é fazer conversão entre diferentes moedas com a cotação mais recente.
+    github: https://github.com/iamgilvan/challenger-bravo
+    tags: [Python, Flask, MongoDb, Heroku]
+  item6:
+    title: Airbnb Predição de Preços
+    subtitle: Análise sobre Airbnb oferecido em Berlin, Alemanha.
+    description: ""
+    github: https://gist.github.com/iamgilvan/73e2fc5864e4b3dd3c515028d114c488
+    tags: [Python, Scikit-Learn, Matplotlib, Seaborn, Numpy, Pandas, Decision Tree Regressor]
+  item7:
+    title: Airbnb Predição de Demandas
+    subtitle: Análise sobre Airbnb oferecido em Berlin, Alemanha.
+    description: ""
+    github: https://gist.github.com/iamgilvan/06786c9ee39df937cbb04e895b0a5ab3
+    tags: [Python, Matplotlib, Seaborn, Numpy, Pandas]
+  item9:
+    title: Processamento de linguagem natural
+    subtitle: Exercício de processamento de linguagem natural.
+    description: ""
+    github: https://gist.github.com/iamgilvan/2c28d243922980f9c91113da12951388
+    img: simple-omnitrix.png
+    tags: [Python, Pandas, Scikit-Learn, nltk]

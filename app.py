@@ -13,5 +13,12 @@ def index():
     return render_template('index.html', data=website_data)
 
 
+@app.route('/pt-br')
+def version_pt_br():
+    website_data = yaml.load(open('_config-pt-br.yaml', encoding='utf8'))
+
+    return render_template('index.html', data=website_data, language='pt-br')
+
+
 if __name__ == '__main__':
     app.run(port=5000)

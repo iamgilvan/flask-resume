@@ -20,7 +20,7 @@ social:
   instagram: https://www.instagram.com/gilvanpraxedes/
   medium: https://medium.com/@iamgilvan
 
-
+tip: Click on the links on the left to switch to another language.
 # Experience section
 experience:
   item0:
@@ -28,7 +28,7 @@ experience:
     company: Radix Engenharia e Software
     from: May 2019
     to: Present
-    description: > 
+    description: >
     link: http://www.radixeng.com.br/
   item1:
     position: Software Developer
@@ -121,7 +121,28 @@ tools:
   item15:
     img: github
     title: Git
-    
+
+
+menu:
+  item1:
+    title: About
+  item2:
+    title: Skills
+    extraInfo1: Programming Languages & Tools
+    extraInfo2: Extra skills / knowledge
+    extraInfo3: Mouse over the icons
+  item3:
+    title: Experience
+  item4:
+    title: Education
+  item5:
+    title: Events
+    extraInfo1: Some of my most recent events in 2020 are...
+  item6:
+    title: Projects
+    extraInfo1: This section contains some projects that I've developed and exercised
+
+
 extra_skills:
   - Flask
   - Web scraping and web automation
