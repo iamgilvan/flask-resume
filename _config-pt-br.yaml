@@ -181,6 +181,12 @@ workshops:
 # Projects section
 projects:
   item1:
+    title: THOW-WEB
+    subtitle: Apoio Multicritério à Decisão
+    description: Aplicação Web que utiliza um algoritmo híbrido de apoio à decisão para processos decisórios com alternativas discretas. http://www.thor-web.com/
+    github: https://github.com/iamgilvan/thor-web
+    tags: [Flask, Python, Bootstrap, Heroku, MongoDB]
+  item2:
     title: flask currículo template
     subtitle: Currículo desenvolvido com Flask
     description: Uma aplicação de simples configuração desenvolvido com Flask.

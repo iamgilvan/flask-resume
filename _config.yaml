@@ -176,6 +176,12 @@ workshops:
 # Projects section
 projects:
   item1:
+    title: THOW-WEB
+    subtitle: Multicriteria Decision Support
+    description: Web application that uses a hybrid decision support algorithm for decision processes with discrete alternatives. http://www.thor-web.com/
+    github: https://github.com/iamgilvan/thor-web
+    tags: [Flask, Python, Bootstrap, Heroku, MongoDB]
+  item2:
     title: flask resume template
     subtitle: A resume template built with Flask
     description: An easy-to-configure simple resume template built with Flask and Bootstrap.
