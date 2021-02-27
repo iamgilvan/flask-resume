@@ -4,7 +4,7 @@ profile:
   last_name: Almeida
   picture: static/img/perfil.jpg # Local picture
   contact:
-    address_one: Rio de Janeiro, Brasil
+    address_one:
     address_two:
     phone: +55 21 982689057
   email: gilvan.praxedes@outlook.com
