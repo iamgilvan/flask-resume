@@ -4,58 +4,96 @@ profile:
   last_name: Almeida
   picture: static/img/perfil.jpg # Local picture
   contact:
-    address_one:
+    address_one: 
     address_two:
     phone: +55 21 982689057
   email: gilvan.praxedes@outlook.com
   description: >
-    I'm a bachelor's Computer Science, M.Sc. student at Military Institute of Engineering - IME/RJ, studying machine learning techniques, graduated in Computer Science at Centro Universitário Carioca - Unicarioca(2018). 
-    I'm passionate about how technology can change the world, enthusiast about programming languages, process optimization, ETL and technologies in general. Trying to learn everything I can and apply it so I can help companies grow their business. If you have a project I can help with, please get in touch.
+    Experienced bilingual professional (Portuguese and English) holding a BSc in Computer Science, MSc in Information Technology, studying machine learning techniques and overall 6years of experience in software development, full-stack, software testing, SQL database administration and client support for well-known multinationals such Itau, ChampionX, Nalco and Operador Nacional do Sistema Elétrico.
+    I have advanced proficiencies in C#, Python, C, C++, C#, HTML/CSS/JavaScript,  Shell Script, SQL, Java, excellent customer service skills, and I am familiar with Microsoft Azure and Amazon Web Service. I also have a solid foundation in MongoDB, SQL Server, MySQL, and Angular.
+    Successfully assist on both front-end and back-end software development tasks, ensuring quality assurance, developing strategies to support system applications, database management and providing a positive user experience, among other responsibilities.
 
 # Social section
 social:
-  facebook: https://www.facebook.com/gilvan.praxedes
+  #facebook: https://www.facebook.com/gilvan.praxedes
   github: https://github.com/iamgilvan
-  instagram: https://www.instagram.com/gilvanpraxedes/
+  #instagram: https://www.instagram.com/gilvanpraxedes/
   linkedin: https://www.linkedin.com/in/gilvan-almeida/
-  medium: https://medium.com/@iamgilvan
+  #medium: https://medium.com/@iamgilvan
   skype: skype:iamgilvan?chat
   telegram: https://t.me/Iamgilvan
-  whatsapp: https://api.whatsapp.com/send?phone=5521982689057
+  #whatsapp: https://api.whatsapp.com/send?phone=5521982689057
 
 tip: Click on the links on the left to switch to another language.
 # Experience section
 experience:
   item0:
-    position: Software Analyst
+    position: Full Stack Engineer/DevOps Developer/SQL Database Admini
     company: Radix Engenharia e Software
     from: May 2019
     to: Present
-    description: >
+    description:
+      item0:
+        text: Develop front end website architecture, back end website applications, and unit testing. Develop and set up new development tools and infrastructure.
+      item1:
+        text: Design user interactions on web pages. Design and develop APIs.
+      item2:
+        text: Create servers and databases for functionality. Ensure responsiveness of applications, identify technical problems, and develop software updates and ‘fixes’.
+      item3:
+        text: Interact with clients to understand product requirements. Test and examine code written by others and analyse results.
+      item4:
+        text: Create documentation specifying software architecture and changes. Create CI/CD (Azure DevOps).
+      item5:
+        text: Review software requirements and help the team to prepare test scenarios. Execute tests on software usability. Analyze test results on database impacts, errors or bugs, and usability.
+      item6:
+        text: Participate in design reviews and provide input on requirements, product design, and potential problems.
+      item7:
+        text: Prepare reports on all aspects related to the software testing carried out and reporting to the design team.
+      item8:
+        text: Automate release management. Work on ways to automate and improve development and release processes.
+      item9:
+        text: Work with software developers and software engineers to ensure that development follows.
+      item10:
+        text: Provide Database modelling and data structure. 
+      item11:
+        text: Install, configure, and monitor SQL Server instances (SQL Azure). Recover Databases with minimal data loss in case of disaster.
+      item12:
+        text: Monitor and Tune Database Performance. Create Automation for Applicable Database Tasks.
+      item13:
+        text: Achievements - Successfully meet both technical and consumer needs.
+
     link: http://www.radixeng.com.br/
   item1:
     position: Software Developer
     company: BigData Corp.
-    from: February 2019
+    from: September 2017
     to: April 2019
-    description: >
-      Development and administration of automated processes, API's to generate reports and business intelligence solutions. Services development based on cloud. Massive use of development based on cloud services, such as Amazon Web Services and Microsoft Azure.
+    description:
+      item0:
+        text: Supported B2B clients on the provided cloud services development products such as Itaú, Serasa Experian, Boa Vista SCPC, Boa Consulta, PayPal, LATAM, and Certisign.
+      item1:
+        text: Developed and administered automated processes, APIs to generate reports and business intelligence solutions. Directed software programming and documentation development.
+      item2:
+        text: Developed cloud services such as Amazon Web Services and Microsoft Azure. Developed automated processes to generate reports and business intelligence solutions. Services development based on the cloud.
+      item3:
+        text: Modified software to fix errors, adapted it to new hardware, improved its performance, or upgraded interfaces. Used cloud services, such as Amazon Web Services (S3, SQS, EC2).
+      item4:
+        text: Installed and configured SQL Server instances and NoSQL instances.
+      item5:
+        text: Analyzed information to recommend and plan modifications of an existing system.
+      item6:
+        text: Consulted with engineering staff to evaluate software-hardware development specifications and performance requirements. Directed system testing and validation procedures.
+      item7:
+        text: Designed and developed software systems using scientific analysis and mathematical models to predict and measure outcomes and design consequences.
     link: https://bigdatacorp.com.br/
   item2:
-    position:  Software Developer Internship
-    company: BigData Corp.
-    from: September 2017
-    to: January 2019
-    description: >
-      Development of automated processes to generate reports and business intelligence solutions. Services development based on cloud. Massive use of cloud services, such as Amazon Web Services (S3, SQS, EC2). 
-    link: https://bigdatacorp.com.br/
-  item3:
     position: Developer Internship
     company: Fiocruz
     from: November 2014
     to: September 2017
-    description: >
-      Member of the project's support and development team Institutional Repository of Fiocruz Arca, which stores the intellectual, scientific and academic production of the institution. Analysis, debugging, script development for the optimization of import and export records. Queries, update , dump and restore in the database.
+    description:
+      item0:
+        text: Analysed, debugged, and developed scripts for the optimization of import and export records. Debugged and developed scripts for the optimization of import and export records.
     link: https://portal.fiocruz.br/
 
 

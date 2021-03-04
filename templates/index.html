@@ -65,9 +65,9 @@
       <li class="other">
         <a href="{{ url_for('index') }}">en</a>
       </li>
-      <li class="other">
+      <!-- <li class="other">
         <a href="{{ url_for('version_pt_br') }}">pt-br</a>
-      </li>
+      </li> -->
       <li class="current"
           title="{{ data.tip }}">
         <span>{% if language %}
@@ -153,13 +153,15 @@
           <div class="resume-content">
             <h3 class="mb-0">{{ item.position }}</h3>
             <div class="subheading mb-3">{{ item.company }}</div>
-            <p>{{ item.description }}</p>
+            {% for _, des in item.description.items() %}
+              <li>{{ des.text }}</li>
+            {% endfor %}
             {% if item.link %}
             <p><a href="{{ item.link }}">
               {% if language %}
-              {{ 'Link de referência.' }}
+                {{ 'Link de referência.' }}
               {% else %}
-              {{ 'Reference link.' }}
+                {{ 'Reference link.' }}
               {% endif %}</a></p>
             {% endif %}
           </div>
