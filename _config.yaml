@@ -185,17 +185,17 @@ menu:
 
 
 extra_skills:
-  - Flask
-  - Web scraping and web automation
-  - APIs and web development
-  - Unit Testing
-  - Problem Solving
-  - Cloud Computing
-  - Analytical Skills
-  - Scripting
-  - DevOps
-  - Machine learning
-  - Training and Development
+  - Programming - C#, Python, C, C++, Shell Script, PL/SQL, JavaScript/CSS/HTML, and Java.
+  - Databases - PostgreSQL, MySql, MongoDB and SQL Server.  
+  - Version Tools - GIT (GitLab and GitHub).
+  - Dependency Management - Pip, NuGet, Yarn, NPM, Gradle, Maven, and Ant.
+  - Methodologies - Scrum, Agile.
+  - Servers - Tomcat 9, Jetty, and JBoss 8.
+  - Operational Systems - Linux and Windows. 
+  - Frameworks and Specifications - Django, Flask, Angular, Play, JSF, Swing, Spring, JSP, RestFul, and EJB 3.
+  - Persistence Frameworks - Django ORM, Entity Frameworks, and Hibernate. 
+  - Others - Lo4j, TDD, Vagrant, Docker, Azure Portal (AppService, Azure Function, Data Factories, App Insights, VM, Databases), AWS (S3, SQS, EC2).
+
 
 
 # Talks and workshops section
