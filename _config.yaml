@@ -9,15 +9,15 @@ profile:
     phone: +55 21 982689057
   email: gilvan.praxedes@outlook.com
   description: >
-    Experienced bilingual professional (Portuguese and English) holding a BSc in Computer Science, MSc in Information Technology, studying machine learning techniques and overall 6years of experience in software development, full-stack, software testing, SQL database administration and client support for well-known multinationals such Itau, ChampionX, Nalco and Operador Nacional do Sistema Elétrico.
-    I have advanced proficiencies in C#, Python, C, C++, C#, HTML/CSS/JavaScript,  Shell Script, SQL, Java, excellent customer service skills, and I am familiar with Microsoft Azure and Amazon Web Service. I also have a solid foundation in MongoDB, SQL Server, MySQL, and Angular.
+    Experienced bilingual professional (Portuguese and English) holding a BSc in Computer Science, MSc in Information Technology, studying machine learning techniques and overall 6years of experience in software development, full-stack, software testing, SQL database administration and client support for well-known multinationals such Itaú, ChampionX, Nalco and Operador Nacional do Sistema Elétrico.
+    I have advanced proficiencies in C#, Python, HTML/CSS/JavaScript, SQL, excellent customer service skills, and I am familiar with Microsoft Azure and Amazon Web Service. I also have a solid foundation in MongoDB, SQL Server, MySQL, and Angular.
     Successfully assist on both front-end and back-end software development tasks, ensuring quality assurance, developing strategies to support system applications, database management and providing a positive user experience, among other responsibilities.
 
 # Social section
 social:
   #facebook: https://www.facebook.com/gilvan.praxedes
   github: https://github.com/iamgilvan
-  #instagram: https://www.instagram.com/gilvanpraxedes/
+  instagram: https://www.instagram.com/gilvanpraxedes/
   linkedin: https://www.linkedin.com/in/gilvan-almeida/
   #medium: https://medium.com/@iamgilvan
   skype: skype:iamgilvan?chat
@@ -28,8 +28,8 @@ tip: Click on the links on the left to switch to another language.
 # Experience section
 experience:
   item0:
-    position: Full Stack Engineer/DevOps Developer/SQL Database Admini
-    company: Radix Engenharia e Software
+    position: Full Stack Developer/DevOps Developer/SQL Database Admin
+    company: Radix Engineering and Software
     from: May 2019
     to: Present
     description:
@@ -54,7 +54,7 @@ experience:
       item9:
         text: Work with software developers and software engineers to ensure that development follows.
       item10:
-        text: Provide Database modelling and data structure. 
+        text: Provide Database modelling and data structure.
       item11:
         text: Install, configure, and monitor SQL Server instances (SQL Azure). Recover Databases with minimal data loss in case of disaster.
       item12:
@@ -135,27 +135,27 @@ tools:
   item6:
     img: linux
     title: Linux 
-  item7:
-    img: c-plus-plus-logo
-    title: C++
+  #item7:
+  #  img: c-plus-plus-logo
+  #  title: C++
   item8:
     img: django
     title: Django
   item9:
     img: microsoft-sql-server
     title: Sql Server
-  item10:
-    img: java-coffee-cup-logo
-    title: Java
+  #item10:
+  #  img: java-coffee-cup-logo
+  #  title: Java
   item11:
     img: amazon-web-services
     title: AWS Services
   item12:
     img: postgreesql
     title: Postgreesql
-  item13:
-    img: sql
-    title: Sql
+  #item13:
+  #  img: sql
+  #  title: Sql
   item14:
     img: mongodb
     title: MongoDB
@@ -185,16 +185,16 @@ menu:
 
 
 extra_skills:
-  - Programming - C#, Python, C, C++, Shell Script, PL/SQL, JavaScript/CSS/HTML, and Java.
-  - Databases - PostgreSQL, MySql, MongoDB and SQL Server.  
+  - Programming - C#, Python, PL/SQL, JavaScript/CSS/HTML, and TypeScript.
+  - Databases - PostgreSQL, MySql, MongoDB and SQL Server. 
   - Version Tools - GIT (GitLab and GitHub).
-  - Dependency Management - Pip, NuGet, Yarn, NPM, Gradle, Maven, and Ant.
+  - Dependency Management - Pip, NuGet, Yarn, NPM, Maven, and Ant.
   - Methodologies - Scrum, Agile.
   - Servers - Tomcat 9, Jetty, and JBoss 8.
-  - Operational Systems - Linux and Windows. 
-  - Frameworks and Specifications - Django, Flask, Angular, Play, JSF, Swing, Spring, JSP, RestFul, and EJB 3.
-  - Persistence Frameworks - Django ORM, Entity Frameworks, and Hibernate. 
-  - Others - Lo4j, TDD, Vagrant, Docker, Azure Portal (AppService, Azure Function, Data Factories, App Insights, VM, Databases), AWS (S3, SQS, EC2).
+  - Operational Systems - Linux and Windows.
+  - Frameworks and Specifications - Django, Flask, Angular, and RestFul.
+  - Persistence Frameworks - Django ORM, Entity Frameworks, and Hibernate.
+  - Others - TDD, Docker, Azure Portal (AppService, Azure Function, Data Factories, App Insights, VM, Databases), AWS (S3, SQS, EC2).
 
 
 
