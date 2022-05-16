@@ -6,7 +6,7 @@ profile:
   contact:
     address_one: 
     address_two:
-    phone: +55 21 982689057
+    phone: +353 83 206 9111
   email: gilvan.praxedes@outlook.com
   description: >
     Experienced bilingual professional (Portuguese and English) holding a BSc in Computer Science, MSc in Information Technology, studying machine learning techniques and overall 6years of experience in software development, full-stack, software testing, SQL database administration and client support for well-known multinationals such Itaú, ChampionX, Nalco and Operador Nacional do Sistema Elétrico.
@@ -28,10 +28,18 @@ tip: Click on the links on the left to switch to another language.
 # Experience section
 experience:
   item0:
+    position: Full Stack Developer
+    company: Version 1
+    from: Mar 2022
+    to: Present
+    # description: 
+    #   item0: 
+    link: https://www.version1.com/
+  item1:
     position: Full Stack Developer/DevOps Developer/SQL Database Admin
     company: Radix Engineering and Software
     from: May 2019
-    to: Present
+    to: Feb 2022
     description:
       item0:
         text: Develop front end website architecture, back end website applications, and unit testing. Develop and set up new development tools and infrastructure.
@@ -63,7 +71,7 @@ experience:
         text: Achievements - Successfully meet both technical and consumer needs.
 
     link: http://www.radixeng.com.br/
-  item1:
+  item2:
     position: Software Developer
     company: BigData Corp.
     from: September 2017
@@ -86,7 +94,7 @@ experience:
       item7:
         text: Designed and developed software systems using scientific analysis and mathematical models to predict and measure outcomes and design consequences.
     link: https://bigdatacorp.com.br/
-  item2:
+  item3:
     position: Developer Internship
     company: Fiocruz
     from: November 2014
@@ -186,15 +194,14 @@ menu:
 
 extra_skills:
   - Programming - C#, Python, PL/SQL, JavaScript/CSS/HTML, and TypeScript.
-  - Databases - PostgreSQL, MySql, MongoDB and SQL Server. 
+  - Databases - PostgreSQL, MySQL, MongoDB and SQL Server.
   - Version Tools - GIT (GitLab and GitHub).
-  - Dependency Management - Pip, NuGet, Yarn, NPM, Maven, and Ant.
+  - Dependency Management - Pip, NuGet, Yarn, and NPM.
   - Methodologies - Scrum, Agile.
-  - Servers - Tomcat 9, Jetty, and JBoss 8.
   - Operational Systems - Linux and Windows.
   - Frameworks and Specifications - Django, Flask, Angular, and RestFul.
   - Persistence Frameworks - Django ORM, Entity Frameworks, and Hibernate.
-  - Others - TDD, Docker, Azure Portal (AppService, Azure Function, Data Factories, App Insights, VM, Databases), AWS (S3, SQS, EC2).
+  - Others - TDD, DDD, Docker, Azure Portal (AppService, Azure Function, Data Factories, App Insights, VM, Databases), AWS (S3, SQS, EC2).
 
 
 

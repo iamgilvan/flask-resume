@@ -153,9 +153,11 @@
           <div class="resume-content">
             <h3 class="mb-0">{{ item.position }}</h3>
             <div class="subheading mb-3">{{ item.company }}</div>
-            {% for _, des in item.description.items() %}
-              <li>{{ des.text }}</li>
-            {% endfor %}
+            {% if item.description %}
+              {% for _, des in item.description.items() %}
+                <li>{{ des.text }}</li>
+              {% endfor %}
+            {% endif %}
             {% if item.link %}
             <p><a href="{{ item.link }}">
               {% if language %}
