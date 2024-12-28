@@ -4,25 +4,19 @@ profile:
   last_name: Almeida
   picture: static/img/perfil.jpg # Local picture
   contact:
-    address_one: 
+    address_one: Cork, Ireland
     address_two:
     phone: +353 083 206 9111
   email: gilvan.praxedes@outlook.com
   description: >
-    Experienced bilingual professional (Portuguese and English) holding a BSc in Computer Science, MSc in Information Technology, studying machine learning techniques and overall 6years of experience in software development, full-stack, software testing, SQL database administration and client support for well-known multinationals such Itaú, ChampionX, Nalco and Operador Nacional do Sistema Elétrico.
-    I have advanced proficiencies in C#, Python, HTML/CSS/JavaScript, SQL, excellent customer service skills, and I am familiar with Microsoft Azure and Amazon Web Service. I also have a solid foundation in MongoDB, SQL Server, MySQL, and Angular.
-    Successfully assist on both front-end and back-end software development tasks, ensuring quality assurance, developing strategies to support system applications, database management and providing a positive user experience, among other responsibilities.
+    I'm an experienced bilingual professional (Portuguese and English) holding a BSc in Computer Science, studied machine learning techniques in MSc in Information Technology, with overall 8 years of experience in software engineering, DevOps, SQL database administration, designing and building data-intensive systems, including reporting systems and scalable data pipelines, and client support for well-known multinationals such as Wood Group, Johnson & Johnson, ChampionX, Nalco, Itaú, PayPal, LATAM, and Operador Nacional do Sistema Elétrico (ONS).
+    I have advanced proficiencies in C#, Python, SQL, and ETL pipelines, data modelling, and pre-aggregation techniques to manage large datasets, and I am familiar with Microsoft Azure and Amazon Web Service, and front-end frameworks like Angular, React, and VueJs.
+    Solid foundation in SQL Server, MongoDB, MySQL. Successfully assisted on both front-end and back-end software development tasks, delivering high-quality software with a customer-centric focus, among other responsibilities.
 
 # Social section
 social:
-  #facebook: https://www.facebook.com/gilvan.praxedes
   github: https://github.com/iamgilvan
-  instagram: https://www.instagram.com/gilvanpraxedes/
   linkedin: https://www.linkedin.com/in/gilvan-almeida/
-  #medium: https://medium.com/@iamgilvan
-  skype: skype:iamgilvan?chat
-  telegram: https://t.me/Iamgilvan
-  #whatsapp: https://api.whatsapp.com/send?phone=5521982689057
 
 tip: Click on the links on the left to switch to another language.
 # Experience section
@@ -143,9 +137,6 @@ tools:
   item6:
     img: linux
     title: Linux 
-  #item7:
-  #  img: c-plus-plus-logo
-  #  title: C++
   item8:
     img: django
     title: Django
