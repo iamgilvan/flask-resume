@@ -24,16 +24,35 @@ experience:
   item0:
     position: Full Stack Developer
     company: Version 1
-    from: Mar 2022
+    from: March 2022
     to: Present
-    # description: 
-    #   item0: 
+    description:
+      item0:
+        text: Develop front end website architecture, back-end website applications, and unit testing. Develop and set up new development tools and infrastructure.
+      item1:
+        text: Design user interactions on web pages. Design and develop APIs.
+      item2:
+        text: Create servers and databases for functionality. Ensure responsiveness of applications, identify technical problems, and develop software updates and ‘fixes’.
+      item3:
+        text: Interact with clients to understand product requirements. Test and examine code written by others and analyse results.
+      item4:
+        text: Review software requirements and help the team to prepare test scenarios. Execute tests on software usability. Analyse test results on database impacts, errors or bugs, and usability.
+      item5:
+        text: Participate in design reviews and provide input on requirements, product design, and potential problems.
+      item6:
+        text: Automate release management. Work on ways to automate and improve development and release processes.
+      item7:
+        text: Work with software developers and software engineers to ensure that development follows.
+      item8:
+        text: Provide Database modelling and data structure.
+      item9:
+        text: Achievements - 60% reduction in the loading time of the main system page.
     link: https://www.version1.com/
   item1:
     position: Full Stack Developer/DevOps Developer/SQL Database Admin
     company: Radix Engineering and Software
     from: May 2019
-    to: Feb 2022
+    to: February 2022
     description:
       item0:
         text: Develop front end website architecture, back end website applications, and unit testing. Develop and set up new development tools and infrastructure.
@@ -102,15 +121,16 @@ experience:
 # Education section
 education:
   item1:
-    institution: Military Institute of Engineering - IME/RJ
-    program:  Master in System and Computing
-    description: Development, analysis and research of machine learning techniques.
+    institution: Military Institute of Engineering - IME | RJ,Brazil
+    program: Master in Information Technology
+    description: >
+      Moddules: Development of Computational Platforms to Support Decision Making, Machine Learning, Applied Artificial Intelligence, Computer Systems Development, and Algorithm Design and Analysis.
+      Thesis Work: Detecting hate speech in images published as comments on social media.
     from: February 2020
-    to: Present
+    to: July 2022 (unfinished)
   item2:
-    institution: Centro Universitário Carioca - Unicarioca/RJ
-    program: >
-      Bachelor's Degree in Computer Science
+    institution: Centro Universitário Carioca - Unicarioca | RJ,Brazil
+    program: Bachelor's Degree in Computer Science
     description: Computer/Information Technology Administration and Management
     from: July 2013
     to: December 2018
@@ -136,25 +156,25 @@ tools:
     title: Docker
   item6:
     img: linux
-    title: Linux 
+    title: Linux
   item8:
     img: django
     title: Django
   item9:
     img: microsoft-sql-server
     title: Sql Server
-  #item10:
-  #  img: java-coffee-cup-logo
-  #  title: Java
+  item10:
+   img: vue-js
+   title: VueJs
   item11:
     img: amazon-web-services
     title: AWS Services
-  item12:
-    img: postgreesql
-    title: Postgreesql
-  #item13:
-  #  img: sql
-  #  title: Sql
+  # item12:
+  #   img: postgreesql
+  #   title: Postgreesql
+  item13:
+   img: sql
+   title: Sql
   item14:
     img: mongodb
     title: MongoDB
