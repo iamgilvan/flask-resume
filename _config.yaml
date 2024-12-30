@@ -22,7 +22,7 @@ tip: Click on the links on the left to switch to another language.
 # Experience section
 experience:
   item0:
-    position: Full Stack Developer
+    position: Full Stack Developer/SQL Database Developer
     company: Version 1
     from: March 2022
     to: Present
@@ -82,7 +82,6 @@ experience:
         text: Monitor and Tune Database Performance. Create Automation for Applicable Database Tasks.
       item13:
         text: Achievements - Successfully meet both technical and consumer needs.
-
     link: http://www.radixeng.com.br/
   item2:
     position: Software Developer
@@ -213,7 +212,7 @@ menu:
     title: Events
     extraInfo1: Some of my most recent events ...
   item6:
-    title: Projects
+    title: Personal Projects
     extraInfo1: This section contains some projects that I've developed and exercised
 
 
@@ -244,6 +243,18 @@ workshops:
 
 # Projects section
 projects:
+  item5:
+    title: Blind-75-Must-Do-Leetcode
+    subtitle: Programming Interview Questions
+    description: A list of Blind 75 Leetcode problems
+    github: https://github.com/iamgilvan/Blind-75-Must-Do-Leetcode
+    tags: [Python]
+  item0:
+    title: CtCI-6th-Edition
+    subtitle: Programming Interview Questions
+    description: 189 programming interview questions, ranging from the basics to the trickiest algorithm problems.
+    github: https://github.com/iamgilvan/CtCI-6th-Edition
+    tags: [Python]
   item1:
     title: THOW-WEB
     subtitle: Multicriteria Decision Support
