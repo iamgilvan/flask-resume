@@ -169,9 +169,9 @@ tools:
   item11:
     img: amazon-web-services
     title: AWS Services
-  # item12:
-  #   img: postgreesql
-  #   title: Postgreesql
+  item12:
+    img: typescript
+    title: typescript
   item13:
    img: sql
    title: Sql
@@ -181,7 +181,21 @@ tools:
   item15:
     img: github
     title: Git
-
+  item16:
+    img: javascript
+    title: javascript
+  item17:
+    img: css
+    title: css
+  item18:
+    img: html
+    title: Html
+  item19:
+    img: bash
+    title: bash
+  item20:
+    img: bootstrap
+    title: bootstrap
 
 menu:
   item1:
@@ -197,37 +211,36 @@ menu:
     title: Education
   item5:
     title: Events
-    extraInfo1: Some of my most recent events in 2020 are...
+    extraInfo1: Some of my most recent events ...
   item6:
     title: Projects
     extraInfo1: This section contains some projects that I've developed and exercised
 
 
 extra_skills:
-  - Programming - C#, Python, PL/SQL, JavaScript/CSS/HTML, and TypeScript.
-  - Databases - PostgreSQL, MySQL, MongoDB and SQL Server.
-  - Version Tools - GIT (GitLab and GitHub).
   - Dependency Management - Pip, NuGet, Yarn, and NPM.
   - Methodologies - Scrum, Agile.
   - Operational Systems - Linux and Windows.
-  - Frameworks and Specifications - Django, Flask, Angular, and RestFul.
-  - Persistence Frameworks - Django ORM, Entity Frameworks, and Hibernate.
-  - Others - TDD, DDD, Docker, Azure Portal (AppService, Azure Function, Data Factories, App Insights, VM, Databases), AWS (S3, SQS, EC2).
+  - Frameworks and Specifications - Flask, VueJs and RESTful.
+  - Persistence Frameworks - ORM, Entity Frameworks, and Hibernate.
+  - Others - TDD, DDD, Docker, Azure Portal (AppService, Azure Function, Data Factories, App Insights, VM, Databases), AWS (S3, SQS, EC2), NServiceBus, Octopus Deploy, and TeamCity.
 
 
 
 # Talks and workshops section
 workshops:
   item0:
-    event: AWS Innovate
-    workshop: AWS Innovate Online Conference, January 2020.
+    event: >
+      Microsoft Azure Virtual Training Day: Data Fundamentals
+    workshop: Microsoft Online Training Day, September 2024.
     material:
-    link: https://aws.amazon.com/pt/latam-pt-innovate/
+    link: https://events.microsoft.com/
   item1:
-    event: AWS Innovate Machine Learning & AI Edition
-    workshop: AWS Innovate Online Conference, January 2020.
+    event: >
+      GitHub and Azure: Better Together!
+    workshop: Microsoft Online Training Day, September 2024.
     material:
-    link: https://aws.amazon.com/pt/events/aws-innovate/machine-learning/
+    link: https://events.microsoft.com/
 
 # Projects section
 projects:
