@@ -4,63 +4,119 @@ profile:
   last_name: Almeida
   picture: static/img/perfil.jpg # Local picture
   contact:
-    address_one:
+    address_one: Cork, Irlanda
     address_two:
     phone: +353 83 206 9111
   email: gilvan.praxedes@outlook.com
   description: >
-   Sou um cientista da computação, mestrando em Sistemas e Computação pelo Instituto Militar de Engenharia – IME, onde aprofundo meus conhecimentos em técnicas de Machine Learning, graduado em Ciência da Computação pelo Centro Universitário Carioca – Unicarioca(2018).
-   Sou apaixonado por como a tecnologias pode mudar o mundo, entusiasta de linguagens de programação,otimização de processos , ETL e tecnologia em geral. Tento aprender tudo o que posso e aplicá-lo para ajudar as empresas a expandir seus negócios e fazendo isso me divirto. Se você tem um projeto com o qual posso ajudar, entre em contato.
-
+    Sou um profissional bilíngue experiente (português e inglês), com bacharelado em Ciência da Computação, estudei técnicas de aprendizado de máquina no mestrado em Tecnologia da Informação, com 8 anos de experiência em engenharia de software, DevOps, administração de banco de dados SQL, projetando e construindo sistemas intensivos em dados, incluindo sistemas de relatórios e pipelines de dados escaláveis, e suporte ao cliente para multinacionais conhecidas como Wood Group, Johnson & Johnson, ChampionX, Nalco, Itaú, PayPal, LATAM e Operador Nacional do Sistema Elétrico (ONS).
+    Tenho proficiência avançada em pipelines C#, Python, SQL e ETL, modelagem de dados e técnicas de pré-agregação para gerenciar grandes conjuntos de dados, e estou familiarizado com Microsoft Azure e Amazon Web Service, e frameworks front-end como Angular, React e VueJs.
+    Base sólida em SQL Server, MongoDB, MySQL. Auxiliou com sucesso em tarefas de desenvolvimento de software front-end e back-end, entregando software de alta qualidade com foco no cliente, entre outras responsabilidades.
 # Social section
 social:
-  facebook: https://www.facebook.com/gilvan.praxedes
   github: https://github.com/iamgilvan
-  instagram: https://www.instagram.com/gilvanpraxedes/
   linkedin: https://www.linkedin.com/in/gilvan-almeida/
-  medium: https://medium.com/@iamgilvan
-  skype: skype:iamgilvan?chat
-  telegram: https://t.me/Iamgilvan
-  whatsapp: https://api.whatsapp.com/send?phone=5521982689057
 
 tip: Click no link a esquerda para trocar o idioma.
 # Experience section
 experience:
   item0:
-    position: Analista de Software
+    position: Desenvolvedor Full Stack/Desenvolvedor de Banco de Dados SQL
+    company: Version 1
+    from: Março 2022
+    to: Atual
+    description:
+      item0:
+        text: Desenvolver arquitetura de site front-end, aplicativos de site back-end e testes de unidade. Desenvolver e configurar novas ferramentas de desenvolvimento e infraestrutura.
+      item1:
+        text: Projetar interações do usuário em páginas da web. Projetar e desenvolver APIs.
+      item2:
+        text: Criar servidores e bancos de dados para funcionalidade. Garantir a capacidade de resposta dos aplicativos, identificar problemas técnicos e desenvolver atualizações e "correções" de software.
+      item3:
+        text: Interagir com clientes para entender os requisitos do produto. Testar e examinar o código escrito por outros e analisar os resultados.
+      item4:
+        text: Revisar os requisitos de software e ajudar a equipe a preparar cenários de teste. Executar testes de usabilidade de software. Analisar os resultados dos testes sobre impactos, erros ou bugs do banco de dados e usabilidade.
+      item5:
+        text: Participar de revisões de design e fornecer informações sobre requisitos, design de produto e problemas potenciais.
+      item6:
+        text: Automatizar o gerenciamento de lançamentos. Trabalhar em maneiras de automatizar e melhorar os processos de desenvolvimento e lançamento.
+      item7:
+        text: Trabalhar com desenvolvedores e engenheiros de software para garantir que o desenvolvimento siga.
+      item8:
+        text: Fornecer modelagem de banco de dados e estrutura de dados.
+      item9:
+        text: Conquistas - redução de 60% no tempo de carregamento da página principal do sistema.
+    link: https://www.version1.com/
+  item1:
+    position: Desenvolvedor Full Stack/Desenvolvedor DevOps/Administrador de Banco de Dados SQL
     company: Radix Engenharia e Software
     from: Maio 2019
-    to: Atual
-    description: >
+    to: Fevereiro 2022
+    description:
+      item0:
+        text: Desenvolver arquitetura de site front-end, aplicativos de site back-end e testes de unidade. Desenvolver e configurar novas ferramentas de desenvolvimento e infraestrutura.
+      item1:
+        text: Projetar interações do usuário em páginas da web. Projetar e desenvolver APIs.
+      item2:
+        text: Criar servidores e bancos de dados para funcionalidade. Garantir a capacidade de resposta dos aplicativos, identificar problemas técnicos e desenvolver atualizações e "correções" de software.
+      item3:
+        text: Interagir com clientes para entender os requisitos do produto. Testar e examinar o código escrito por outros e analisar os resultados.
+      item4:
+        text: Criar documentação especificando a arquitetura e as alterações do software. Criar CI/CD (Azure DevOps).
+      item5:
+        text: Revisar os requisitos do software e ajudar a equipe a preparar cenários de teste. Executar testes de usabilidade do software. Analisar os resultados dos testes sobre impactos, erros ou bugs do banco de dados e usabilidade.
+      item6:
+        text: Participar de revisões de design e fornecer informações sobre requisitos, design do produto e problemas potenciais.
+      item7:
+        text: Preparar relatórios sobre todos os aspectos relacionados aos testes de software realizados e relatórios para a equipe de design.
+      item8:
+        text: Automatize o gerenciamento de lançamentos. Trabalhe em maneiras de automatizar e melhorar os processos de desenvolvimento e lançamento.
+      item9:
+        text: Trabalhar com desenvolvedores e engenheiros de software para garantir que o desenvolvimento siga.
+      item10:
+        text: Forneçer modelagem de banco de dados e estrutura de dados.
+      item11:
+        text: Instalar, configurar e monitorar instâncias do SQL Server (SQL Azure). Recupere bancos de dados com perda mínima de dados em caso de desastre.
+      item12:
+        text: Monitorar e ajustar o desempenho do banco de dados. Crie automação para tarefas de banco de dados aplicáveis.
+      item13:
+        text: Conquistas - Atendeu com sucesso às necessidades técnicas e do consumidor.
     link: http://www.radixeng.com.br/
-  item1:
+  item2:
     position: Desenvolvedor de Software 
     company: BigData Corp.
-    from: Fevereiro 2019
-    to: Abril 2019
-    description: >
-      Desenvolvimento e administração de processos automatizados, API's para gerar relatórios e soluções de business intelligence.
-      Desenvolvimento de serviços baseado em nuvem. Uso maciço de desenvolvimento baseado em serviços em nuvem, como o Amazon Web Services e o Microsoft Azure.
-    link: https://bigdatacorp.com.br/
-  item2:
-    position: Estagiário de Desenvolvimento de Software 
-    company: BigData Corp.
     from: Setembro 2017
-    to: Janeiro 2019
-    description: >
-      Desenvolvimento de processos automatizados para gerar relatórios e soluções de inteligência de negócios.
-      Desenvolvimento de serviços com base na nuvem.
-      Uso amplo de serviços em nuvem, como Amazon Web Services (S3, SQS, EC2).
+    to: Abril 2019
+    description:
+      item0:
+        text: Suporte a clientes B2B nos produtos de desenvolvimento de serviços em nuvem fornecidos, como Itaú, Serasa Experian, Boa Vista SCPC, Boa Consulta, PayPal, LATAM e Certisign.
+      item1:
+        text: Desenvolvimento e administração de processos automatizados, APIs para geração de relatórios e soluções de inteligência de negócios. Programação de software direcionada e desenvolvimento de documentação.
+      item2:
+        text: Desenvolvimento de serviços em nuvem, como Amazon Web Services e Microsoft Azure. Desenvolvimento de processos automatizados para geração de relatórios e soluções de inteligência de negócios. Desenvolvimento de serviços com base na nuvem.
+      item3:
+        text: Software modificado para correção de erros, adaptado a novo hardware, melhorado seu desempenho ou interfaces atualizadas. Serviços em nuvem usados, como Amazon Web Services (S3, SQS, EC2).
+      item4:
+        text: Instalação e configuração de instâncias do SQL Server e instâncias do NoSQL.
+      item5:
+        text: Análise de informações para recomendação e planejamento de modificações de um sistema existente.
+      item6:
+        text: Consultado com equipe de engenharia para avaliação de especificações de desenvolvimento de software e hardware e requisitos de desempenho. Procedimentos de teste e validação de sistema direcionados.
+      item7:
+        text: Projetei e desenvolvi sistemas de software usando análise científica e modelos matemáticos para prever e medir resultados e consequências de design.
     link: https://bigdatacorp.com.br/
   item3:
     position: Bolsista de desenvolvimento web
     company: Fiocruz
     from: Novembro 2014
     to: Setembro 2017
-    description: >
-      Membro da equipe de suporte e desenvolvimento do projeto Repositório Institucional da Fiocruz Arca, no qual armazena toda a produção intelectual, científica e acadêmica da instituição.
-      Execução de análise, depuração, desenvolvimento de script's para a otimização de importação e exportação de registros.
-      Consultas, atualizações, dump e restore no banco de dados.
+    description:
+    item0:
+      text: Membro da equipe de suporte e desenvolvimento do projeto Repositório Institucional da Fiocruz Arca, no qual armazena toda a produção intelectual, científica e acadêmica da instituição.
+    item1:
+      text: Execução de análise, depuração, desenvolvimento de script's para a otimização de importação e exportação de registros.
+    item2:
+      text: Consultas, atualizações, dump e restore no banco de dados.
     link: https://portal.fiocruz.br/
 
 
@@ -69,9 +125,11 @@ education:
   item1:
     institution: Instituto Militar de Engenharia - IME/RJ
     program:  Mestre em Sistemas e Computação
-    description: Desenvolvimento, análise e pesquisa de técnicas de machine learning.
+    description: >
+      Módulos: Desenvolvimento de Plataformas Computacionais para Apoiar a Tomada de Decisão, Aprendizado de Máquina, Inteligência Artificial Aplicada, Desenvolvimento de Sistemas Computacionais e Design e Análise de Algoritmos.
+      Trabalho de Tese: Detecção de discurso de ódio em imagens publicadas como comentários em mídias sociais.
     from: Fevereiro 2020
-    to: Atual
+    to: Julho de 2022 (Não Finalizado)
   item2:
     institution: Centro Universitário Carioca - Unicarioca/RJ
     program: >
@@ -101,10 +159,7 @@ tools:
     title: Docker
   item6:
     img: linux
-    title: Linux 
-  item7:
-    img: c-plus-plus-logo
-    title: C++
+    title: Linux
   item8:
     img: django
     title: Django
@@ -112,24 +167,38 @@ tools:
     img: microsoft-sql-server
     title: Sql Server
   item10:
-    img: java-coffee-cup-logo
-    title: Java
+   img: vue-js
+   title: VueJs
   item11:
     img: amazon-web-services
     title: AWS Services
   item12:
-    img: postgreesql
-    title: Postgreesql
+    img: typescript
+    title: typescript
   item13:
-    img: sql
-    title: Sql
+   img: sql
+   title: Sql
   item14:
     img: mongodb
     title: MongoDB
   item15:
     img: github
     title: Git
-
+  item16:
+    img: javascript
+    title: javascript
+  item17:
+    img: css
+    title: css
+  item18:
+    img: html
+    title: Html
+  item19:
+    img: bash
+    title: bash
+  item20:
+    img: bootstrap
+    title: bootstrap
 
 menu:
   item1:
@@ -145,60 +214,68 @@ menu:
     title: Educação
   item5:
     title: Eventos
-    extraInfo1: Alguns dos recentes eventos em 2020 ...
+    extraInfo1: Alguns dos recentes eventos ...
   item6:
-    title: Projetos
+    title: Projetos Pessoais
     extraInfo1: Esta seção contém alguns projetos que eu desenvolvi e exercitei.
 
 
 extra_skills:
-  - Flask
-  - Web scraping e automação web
-  - APIs e desenvolvimento web
-  - Teste unitário
-  - Solução de problemas
-  - Cloud Computing
-  - Capacidade analítica
-  - Scripting
-  - DevOps
-  - Aprendizagem de máquina
-  - Treinamento e desenvolvimento
-
+  - Gerenciamento de dependências - Pip, NuGet, Yarn, and NPM.
+  - Metodologias - Scrum, Agile.
+  - Sistemas operacionais - Linux and Windows.
+  - Frameworks e specificações - Flask, VueJs and RESTful.
+  - Frameworks de persistência - ORM, Entity Frameworks, and Hibernate.
+  - Outros - TDD, DDD, Docker, Azure Portal (AppService, Azure Function, Data Factories, App Insights, VM, Databases), AWS (S3, SQS, EC2), NServiceBus, Octopus Deploy, and TeamCity.
 
 # Talks and workshops section
 workshops:
   item0:
-    event: AWS Innovate
-    workshop: AWS Innovate Online Conference, Janeiro 2020.
+    event: >
+      Microsoft Azure Virtual Training Day: Data Fundamentals
+    workshop: Microsoft Online Training Day, Setembro 2024.
     material:
-    link: https://aws.amazon.com/pt/latam-pt-innovate/
+    link: https://events.microsoft.com/
   item1:
-    event: AWS Innovate Edição de machine learning e IA
-    workshop: AWS Innovate Online Conference, Janeiro 2020.
+    event: >
+      GitHub and Azure: Better Together!
+    workshop: Microsoft Online Training Day, Setembro 2024.
     material:
-    link: https://aws.amazon.com/pt/events/aws-innovate/machine-learning/
+    link: https://events.microsoft.com/
 
 # Projects section
 projects:
+  item0:
+    title: Blind-75-Must-Do-Leetcode
+    subtitle: Perguntas de entrevista de programação
+    description: Uma lista de problemas do Blind 75 Leetcode
+    github: https://github.com/iamgilvan/Blind-75-Must-Do-Leetcode
+    tags: [Python]
   item1:
+    title: CtCI-6th-Edition
+    subtitle: Perguntas de entrevista de programação
+    description: 189 perguntas de entrevista de programação, desde o básico até os problemas de algoritmo mais complicados.
+    github: https://github.com/iamgilvan/CtCI-6th-Edition
+    tags: [Python]
+  item2:
     title: THOW-WEB
     subtitle: Apoio Multicritério à Decisão
     description: Aplicação Web que utiliza um algoritmo híbrido de apoio à decisão para processos decisórios com alternativas discretas. http://www.thor-web.com/
     github: https://github.com/iamgilvan/thor-web
     tags: [Flask, Python, Bootstrap, Heroku, MongoDB]
-  item2:
+  item3:
     title: flask currículo template
     subtitle: Currículo desenvolvido com Flask
     description: Uma aplicação de simples configuração desenvolvido com Flask.
     github: https://github.com/iamgilvan/flask-resume
     tags: [Flask, Python, Bootstrap]
-  item3:
+  item4:
     title: TDD Python Exemplo
     subtitle: Teste unitário
     description: Exemplo de teste unitário com python.
     github: https://github.com/iamgilvan/tdd-python-example
     tags: [Python, Unit Test, PyTest]
-  item4:
+  item5:
     title: Conversão de moedas
     subtitle:  Conversão entre diferentes moedas
     description: O principal objetivo dessa api desenvolvida em python é fazer conversão entre diferentes moedas com a cotação mais recente.
