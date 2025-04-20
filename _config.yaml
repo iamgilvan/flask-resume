@@ -22,10 +22,17 @@ tip: Click on the links on the left to switch to another language.
 # Experience section
 experience:
   item0:
+    position: Full Stack Developer
+    company: Screendragon
+    from: March 2025
+    to: Present
+    description:
+    link: https://www.screendragon.com/
+  item1:
     position: Full Stack Developer/SQL Database Developer
     company: Version 1
     from: March 2022
-    to: Present
+    to: March 2025
     description:
       item0:
         text: Develop front end website architecture, back-end website applications, and unit testing. Develop and set up new development tools and infrastructure.
@@ -48,7 +55,7 @@ experience:
       item9:
         text: Achievements - 60% reduction in the loading time of the main system page.
     link: https://www.version1.com/
-  item1:
+  item2:
     position: Full Stack Developer/DevOps Developer/SQL Database Admin
     company: Radix Engineering and Software
     from: May 2019
@@ -83,7 +90,7 @@ experience:
       item13:
         text: Achievements - Successfully meet both technical and consumer needs.
     link: http://www.radixeng.com.br/
-  item2:
+  item3:
     position: Software Developer
     company: BigData Corp.
     from: September 2017
@@ -106,7 +113,7 @@ experience:
       item7:
         text: Designed and developed software systems using scientific analysis and mathematical models to predict and measure outcomes and design consequences.
     link: https://bigdatacorp.com.br/
-  item3:
+  item4:
     position: Developer Internship
     company: Fiocruz
     from: November 2014

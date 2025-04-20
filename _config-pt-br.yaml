@@ -21,10 +21,17 @@ tip: Click no link a esquerda para trocar o idioma.
 # Experience section
 experience:
   item0:
+    position: Desenvolvedor Full Stack
+    company: Screendragon
+    from: Março 2025
+    to: Atual
+    description:
+    link: https://www.screendragon.com/
+  item1:
     position: Desenvolvedor Full Stack/Desenvolvedor de Banco de Dados SQL
     company: Version 1
     from: Março 2022
-    to: Atual
+    to: Março 2025
     description:
       item0:
         text: Desenvolver arquitetura de site front-end, aplicativos de site back-end e testes de unidade. Desenvolver e configurar novas ferramentas de desenvolvimento e infraestrutura.
@@ -47,7 +54,7 @@ experience:
       item9:
         text: Conquistas - redução de 60% no tempo de carregamento da página principal do sistema.
     link: https://www.version1.com/
-  item1:
+  item2:
     position: Desenvolvedor Full Stack/Desenvolvedor DevOps/Administrador de Banco de Dados SQL
     company: Radix Engenharia e Software
     from: Maio 2019
@@ -82,7 +89,7 @@ experience:
       item13:
         text: Conquistas - Atendeu com sucesso às necessidades técnicas e do consumidor.
     link: http://www.radixeng.com.br/
-  item2:
+  item3:
     position: Desenvolvedor de Software 
     company: BigData Corp.
     from: Setembro 2017
@@ -105,7 +112,7 @@ experience:
       item7:
         text: Projetei e desenvolvi sistemas de software usando análise científica e modelos matemáticos para prever e medir resultados e consequências de design.
     link: https://bigdatacorp.com.br/
-  item3:
+  item4:
     position: Bolsista de desenvolvimento web
     company: Fiocruz
     from: Novembro 2014
