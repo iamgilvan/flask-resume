@@ -9,9 +9,10 @@ profile:
     phone: +353 83 206 9111
   email: gilvan.praxedes@outlook.com
   description: >
-    Sou um profissional bilíngue experiente (português e inglês), com bacharelado em Ciência da Computação, estudei técnicas de aprendizado de máquina no mestrado em Tecnologia da Informação, com 8 anos de experiência em engenharia de software, DevOps, administração de banco de dados SQL, projetando e construindo sistemas intensivos em dados, incluindo sistemas de relatórios e pipelines de dados escaláveis, e suporte ao cliente para multinacionais conhecidas como Wood Group, Johnson & Johnson, ChampionX, Nalco, Itaú, PayPal, LATAM e Operador Nacional do Sistema Elétrico (ONS).
-    Tenho proficiência avançada em pipelines C#, Python, SQL e ETL, modelagem de dados e técnicas de pré-agregação para gerenciar grandes conjuntos de dados, e estou familiarizado com Microsoft Azure e Amazon Web Service, e frameworks front-end como Angular, React e VueJs.
-    Base sólida em SQL Server, MongoDB, MySQL. Auxiliou com sucesso em tarefas de desenvolvimento de software front-end e back-end, entregando software de alta qualidade com foco no cliente, entre outras responsabilidades.
+    Profissional bilíngue (Português e Inglês) com graduação em Ciência da Computação e mais de 8 anos de experiência em desenvolvimento de software, full-stack, DevOps, administração de bancos de dados SQL e suporte a clientes em empresas multinacionais como Wood Group, Johnson & Johnson, ChampionX, Nalco, Itaú, PayPal, LATAM, Certisign e ONS.
+    Atualmente, estou cursando o MSc em Software Design com Cloud Native Computing na Technological University of the Shannon (TUS), Irlanda, com foco em arquiteturas cloud-native modernas, práticas de DevOps e sistemas de software escaláveis.
+    Possuo habilidades em C#, Python, frameworks front-end (Angular, Vue, React), TypeScript, SQL, além de familiaridade com plataformas de nuvem como AWS e Azure. Também tenho experiência com MongoDB, SQL Server, MySQL, testes unitários e de API, arquitetura de software e projetos de engenharia em equipe.
+    Sou apaixonado por aprendizado contínuo, gosto de enfrentar desafios, melhorar sistemas e entregar soluções que aprimorem a experiência do usuário e o desempenho das aplicações.
 # Social section
 social:
   github: https://github.com/iamgilvan
@@ -21,11 +22,21 @@ tip: Click no link a esquerda para trocar o idioma.
 # Experience section
 experience:
   item0:
-    position: Desenvolvedor Full Stack
+    position: Desenvolvedor de Software
     company: Screendragon
     from: Março 2025
     to: Atual
     description:
+      item0: 
+        text: Desenvolvi APIs e aplicações web com foco em escalabilidade e responsividade.
+      item1: 
+        text: Colaborei em revisões de design e contribui para requisitos de produto e arquitetura.
+      item2: 
+        text: Automatizei processos de release e deployment para aumentar a eficiência.
+      item3: 
+        text: Modelei bancos de dados e defini estruturas de dados.
+      item4: 
+        text: Conquista - Entreguei soluções que atenderam às necessidades técnicas e dos clientes.
     link: https://www.screendragon.com/
   item1:
     position: Desenvolvedor Full Stack/Desenvolvedor de Banco de Dados SQL
@@ -33,26 +44,16 @@ experience:
     from: Março 2022
     to: Março 2025
     description:
-      item0:
-        text: Desenvolver arquitetura de site front-end, aplicativos de site back-end e testes de unidade. Desenvolver e configurar novas ferramentas de desenvolvimento e infraestrutura.
-      item1:
-        text: Projetar interações do usuário em páginas da web. Projetar e desenvolver APIs.
-      item2:
-        text: Criar servidores e bancos de dados para funcionalidade. Garantir a capacidade de resposta dos aplicativos, identificar problemas técnicos e desenvolver atualizações e "correções" de software.
-      item3:
-        text: Interagir com clientes para entender os requisitos do produto. Testar e examinar o código escrito por outros e analisar os resultados.
-      item4:
-        text: Revisar os requisitos de software e ajudar a equipe a preparar cenários de teste. Executar testes de usabilidade de software. Analisar os resultados dos testes sobre impactos, erros ou bugs do banco de dados e usabilidade.
-      item5:
-        text: Participar de revisões de design e fornecer informações sobre requisitos, design de produto e problemas potenciais.
-      item6:
-        text: Automatizar o gerenciamento de lançamentos. Trabalhar em maneiras de automatizar e melhorar os processos de desenvolvimento e lançamento.
-      item7:
-        text: Trabalhar com desenvolvedores e engenheiros de software para garantir que o desenvolvimento siga.
-      item8:
-        text: Fornecer modelagem de banco de dados e estrutura de dados.
-      item9:
-        text: Conquistas - redução de 60% no tempo de carregamento da página principal do sistema.
+      item0: 
+        text: Desenvolvi componentes de front-end e back-end usando .NET Core e Vue.js.
+      item1: 
+        text: Modelei e otimizei bancos de dados SQL Server e pipelines de ETL.
+      item2: 
+        text: Construí APIs RESTful e melhorei a performance do sistema (60% de redução no tempo de carregamento).
+      item3: 
+        text: Automatizei processos de build e deployment com TeamCity e Octopus Deploy.
+      item4: 
+        text: Conquista - Melhorei a performance e a manutenção de sistemas corporativos para clientes como Johnson & Johnson e Wood Group.
     link: https://www.version1.com/
   item2:
     position: Desenvolvedor Full Stack/Desenvolvedor DevOps/Administrador de Banco de Dados SQL
@@ -60,34 +61,16 @@ experience:
     from: Maio 2019
     to: Fevereiro 2022
     description:
-      item0:
-        text: Desenvolver arquitetura de site front-end, aplicativos de site back-end e testes de unidade. Desenvolver e configurar novas ferramentas de desenvolvimento e infraestrutura.
-      item1:
-        text: Projetar interações do usuário em páginas da web. Projetar e desenvolver APIs.
-      item2:
-        text: Criar servidores e bancos de dados para funcionalidade. Garantir a capacidade de resposta dos aplicativos, identificar problemas técnicos e desenvolver atualizações e "correções" de software.
-      item3:
-        text: Interagir com clientes para entender os requisitos do produto. Testar e examinar o código escrito por outros e analisar os resultados.
-      item4:
-        text: Criar documentação especificando a arquitetura e as alterações do software. Criar CI/CD (Azure DevOps).
-      item5:
-        text: Revisar os requisitos do software e ajudar a equipe a preparar cenários de teste. Executar testes de usabilidade do software. Analisar os resultados dos testes sobre impactos, erros ou bugs do banco de dados e usabilidade.
-      item6:
-        text: Participar de revisões de design e fornecer informações sobre requisitos, design do produto e problemas potenciais.
-      item7:
-        text: Preparar relatórios sobre todos os aspectos relacionados aos testes de software realizados e relatórios para a equipe de design.
-      item8:
-        text: Automatize o gerenciamento de lançamentos. Trabalhe em maneiras de automatizar e melhorar os processos de desenvolvimento e lançamento.
-      item9:
-        text: Trabalhar com desenvolvedores e engenheiros de software para garantir que o desenvolvimento siga.
-      item10:
-        text: Forneçer modelagem de banco de dados e estrutura de dados.
-      item11:
-        text: Instalar, configurar e monitorar instâncias do SQL Server (SQL Azure). Recupere bancos de dados com perda mínima de dados em caso de desastre.
-      item12:
-        text: Monitorar e ajustar o desempenho do banco de dados. Crie automação para tarefas de banco de dados aplicáveis.
-      item13:
-        text: Conquistas - Atendeu com sucesso às necessidades técnicas e do consumidor.
+      item0: 
+        text: Desenvolvi aplicações full-stack com C# e Angular.
+      item1: 
+        text: Modelei e gerenciei bancos de dados SQL Server e soluções Azure SQL.
+      item2: 
+        text: Configurei pipelines de CI/CD no Azure DevOps e automatizei deploys.
+      item3: 
+        text: Realizei tuning de sistemas, testes e documentação.
+      item4: 
+        text: Conquista - Entreguei aplicações críticas para ChampionX e ONS, aumentando a eficiência operacional.
     link: http://www.radixeng.com.br/
   item3:
     position: Desenvolvedor de Software 
@@ -95,22 +78,14 @@ experience:
     from: Setembro 2017
     to: Abril 2019
     description:
-      item0:
-        text: Suporte a clientes B2B nos produtos de desenvolvimento de serviços em nuvem fornecidos, como Itaú, Serasa Experian, Boa Vista SCPC, Boa Consulta, PayPal, LATAM e Certisign.
-      item1:
-        text: Desenvolvimento e administração de processos automatizados, APIs para geração de relatórios e soluções de inteligência de negócios. Programação de software direcionada e desenvolvimento de documentação.
-      item2:
-        text: Desenvolvimento de serviços em nuvem, como Amazon Web Services e Microsoft Azure. Desenvolvimento de processos automatizados para geração de relatórios e soluções de inteligência de negócios. Desenvolvimento de serviços com base na nuvem.
-      item3:
-        text: Software modificado para correção de erros, adaptado a novo hardware, melhorado seu desempenho ou interfaces atualizadas. Serviços em nuvem usados, como Amazon Web Services (S3, SQS, EC2).
-      item4:
-        text: Instalação e configuração de instâncias do SQL Server e instâncias do NoSQL.
-      item5:
-        text: Análise de informações para recomendação e planejamento de modificações de um sistema existente.
-      item6:
-        text: Consultado com equipe de engenharia para avaliação de especificações de desenvolvimento de software e hardware e requisitos de desempenho. Procedimentos de teste e validação de sistema direcionados.
-      item7:
-        text: Projetei e desenvolvi sistemas de software usando análise científica e modelos matemáticos para prever e medir resultados e consequências de design.
+      item0: 
+        text: Desenvolvi serviços em nuvem e APIs para clientes como Itaú, PayPal e LATAM.
+      item1: 
+        text: Construí sistemas distribuídos para dados públicos, notícias e inteligência de mercado.
+      item2: 
+        text: Mantive bancos de dados SQL Server e NoSQL, pipelines de ETL e ferramentas de monitoramento.
+      item3: 
+        text: Conquista - Criei soluções escaláveis que reduziram custos dos clientes em 50% e suportaram contratos multimilionários.
     link: https://bigdatacorp.com.br/
   item4:
     position: Bolsista de desenvolvimento web
@@ -118,17 +93,29 @@ experience:
     from: Novembro 2014
     to: Setembro 2017
     description:
-    item0:
-      text: Membro da equipe de suporte e desenvolvimento do projeto Repositório Institucional da Fiocruz Arca, no qual armazena toda a produção intelectual, científica e acadêmica da instituição.
-    item1:
-      text: Execução de análise, depuração, desenvolvimento de script's para a otimização de importação e exportação de registros.
-    item2:
-      text: Consultas, atualizações, dump e restore no banco de dados.
+      item0: 
+        text: Apoiei no desenvolvimento de sistemas internos e scripts de automação.
+      item1: 
+        text: Contribuí na otimização de bancos de dados e sistemas de gestão de registros.
+      item2: 
+        text: Conquista - Apoiei na digitalização completa do inventário de ativos.
     link: https://portal.fiocruz.br/
 
 
 # Education section
 education:
+  item0:
+    institution: Technological University of the Shannon (TUS) | Irlanda
+    program: Mestrado em Software Design com Cloud Native Computing
+    description: >
+      Principais módulos:
+        Microsserviços e aplicações conteinerizadas (Docker, Kubernetes)
+      | Integração Contínua e Entrega Contínua (CI/CD) e automação DevOps
+      | Programação Orientada a Objetos e Scripting Aplicado
+      | Arquitetura de software e projetos de engenharia em equipe
+      | Métodos de pesquisa, prática profissional e dissertação/estágio na indústria
+    from: Setembro 2025
+    to: Setembro 2026
   item1:
     institution: Instituto Militar de Engenharia - IME/RJ
     program:  Mestre em Sistemas e Computação
@@ -194,12 +181,6 @@ tools:
   item16:
     img: javascript
     title: javascript
-  item17:
-    img: css
-    title: css
-  item18:
-    img: html
-    title: Html
   item19:
     img: bash
     title: bash
@@ -228,22 +209,27 @@ menu:
 
 
 extra_skills:
-  - Gerenciamento de dependências - Pip, NuGet, Yarn, and NPM.
-  - Metodologias - Scrum, Agile.
-  - Sistemas operacionais - Linux and Windows.
-  - Frameworks e specificações - Flask, VueJs and RESTful.
-  - Frameworks de persistência - ORM, Entity Frameworks, and Hibernate.
-  - Outros - TDD, DDD, Docker, Azure Portal (AppService, Azure Function, Data Factories, App Insights, VM, Databases), AWS (S3, SQS, EC2), NServiceBus, Octopus Deploy, and TeamCity.
+  - Nuvem - Microsoft Azure (App Services, Azure Functions, Service Bus, ADF), AWS (EC2, S3, SQS)
+  - DevOps - CI/CD, Azure DevOps, GitHub, GitLab, Docker, TeamCity, Octopus Deploy
+  - Arquitetura - Microsserviços, Event-driven, RESTful APIs, Sistemas Cloud-Native
+  - Testes - Testes unitários, Testes de integração, TDD
+  - Metodologias - Scrum, Agile, Clean Code, princípios SOLID
 
 # Talks and workshops section
 workshops:
   item0:
     event: >
+      AWS Summit London
+    workshop: O AWS Summit London é o nosso maior evento gratuito de tecnologia em nuvem no Reino Unido, Abril de 2025.
+    material:
+    link: https://aws.amazon.com/events/summits/london/
+  item1:
+    event: >
       Microsoft Azure Virtual Training Day: Data Fundamentals
     workshop: Microsoft Online Training Day, Setembro 2024.
     material:
     link: https://events.microsoft.com/
-  item1:
+  item2:
     event: >
       GitHub and Azure: Better Together!
     workshop: Microsoft Online Training Day, Setembro 2024.
@@ -252,6 +238,18 @@ workshops:
 
 # Projects section
 projects:
+  item11:
+    título: Padrões de Projeto em csharp
+    subtítulo: " "
+    descrição: Padrões de Projeto em csharp - Curso
+    github: https://github.com/iamgilvan/design-patterns-in-csharp
+    tags: [Csharp]
+  item10:
+    título: Programação Orientada a Objetos com Python
+    subtítulo: " "
+    descrição: Programação Orientada a Objetos com Python - Curso
+    github: https://github.com/iamgilvan/oop_python
+    tags: [Python]
   item0:
     title: Blind-75-Must-Do-Leetcode
     subtitle: Perguntas de entrevista de programação

@@ -9,9 +9,12 @@ profile:
     phone: +353 083 206 9111
   email: gilvan.praxedes@outlook.com
   description: >
-    I'm an experienced bilingual professional (Portuguese and English) holding a BSc in Computer Science, studied machine learning techniques in MSc in Information Technology, with overall 8 years of experience in software engineering, DevOps, SQL database administration, designing and building data-intensive systems, including reporting systems and scalable data pipelines, and client support for well-known multinationals such as Wood Group, Johnson & Johnson, ChampionX, Nalco, Itaú, PayPal, LATAM, and Operador Nacional do Sistema Elétrico (ONS).
-    I have advanced proficiencies in C#, Python, SQL, and ETL pipelines, data modelling, and pre-aggregation techniques to manage large datasets, and I am familiar with Microsoft Azure and Amazon Web Service, and front-end frameworks like Angular, React, and VueJs.
-    Solid foundation in SQL Server, MongoDB, MySQL. Successfully assisted on both front-end and back-end software development tasks, delivering high-quality software with a customer-centric focus, among other responsibilities.
+    Experienced bilingual professional (Portuguese and English) with a BSc in Computer Science and over 8 years of experience in software development, full-stack, DevOps, SQL database management, and client support for multinational companies such as Wood Group, Johnson & Johnson, ChampionX, Nalco, Itaú, PayPal, LATAM, Certisign, and ONS.  
+    I am currently pursuing an MSc in Software Design with Cloud Native Computing at the Technological University of the Shannon (TUS), Ireland, focused on modern cloud-native architectures, DevOps practices, and scalable software systems.
+    I have strong skills in C#, Python, front-end frameworks (Angular, Vue, React), TypeScript, SQL, and I am familiar with cloud platforms such as AWS and Azure. I have also worked with MongoDB, SQL Server, MySQL, and have experience in unit and API testing, software architecture, and team-based engineering projects.  
+    Passionate about continuous learning, I enjoy tackling challenges, improving systems, and delivering solutions that enhance user experience and performance.
+
+
 
 # Social section
 social:
@@ -22,11 +25,21 @@ tip: Click on the links on the left to switch to another language.
 # Experience section
 experience:
   item0:
-    position: Full Stack Developer
+    position: Software Developer
     company: Screendragon
     from: March 2025
     to: Present
     description:
+      item0: 
+        text: Designed and developed APIs and web applications with focus on scalability and responsiveness.
+      item1: 
+        text: Collaborated in design reviews and contributed to product requirements and architecture.
+      item2: 
+        text: Automated release and deployment processes to improve efficiency.
+      item3: 
+        text: Provided database modeling and data structure support.
+      item4: 
+        text: Achievement - Delivered solutions that met both technical and client needs.
     link: https://www.screendragon.com/
   item1:
     position: Full Stack Developer/SQL Database Developer
@@ -34,26 +47,16 @@ experience:
     from: March 2022
     to: March 2025
     description:
-      item0:
-        text: Develop front end website architecture, back-end website applications, and unit testing. Develop and set up new development tools and infrastructure.
-      item1:
-        text: Design user interactions on web pages. Design and develop APIs.
-      item2:
-        text: Create servers and databases for functionality. Ensure responsiveness of applications, identify technical problems, and develop software updates and ‘fixes’.
-      item3:
-        text: Interact with clients to understand product requirements. Test and examine code written by others and analyse results.
-      item4:
-        text: Review software requirements and help the team to prepare test scenarios. Execute tests on software usability. Analyse test results on database impacts, errors or bugs, and usability.
-      item5:
-        text: Participate in design reviews and provide input on requirements, product design, and potential problems.
-      item6:
-        text: Automate release management. Work on ways to automate and improve development and release processes.
-      item7:
-        text: Work with software developers and software engineers to ensure that development follows.
-      item8:
-        text: Provide Database modelling and data structure.
-      item9:
-        text: Achievements - 60% reduction in the loading time of the main system page.
+      item0: 
+        text: Developed front-end and back-end components using .NET Core and Vue.js.
+      item1: 
+        text: Designed and optimized SQL Server databases and ETL pipelines.
+      item2: 
+        text: Built RESTful APIs and improved system performance (60% faster load times).
+      item3: 
+        text: Automated build and deployment processes with TeamCity and Octopus Deploy.
+      item4: 
+        text: Achievement- Improved performance and maintainability of enterprise systems for clients like Johnson & Johnson and Wood Group.
     link: https://www.version1.com/
   item2:
     position: Full Stack Developer/DevOps Developer/SQL Database Admin
@@ -61,34 +64,16 @@ experience:
     from: May 2019
     to: February 2022
     description:
-      item0:
-        text: Develop front end website architecture, back end website applications, and unit testing. Develop and set up new development tools and infrastructure.
-      item1:
-        text: Design user interactions on web pages. Design and develop APIs.
-      item2:
-        text: Create servers and databases for functionality. Ensure responsiveness of applications, identify technical problems, and develop software updates and ‘fixes’.
-      item3:
-        text: Interact with clients to understand product requirements. Test and examine code written by others and analyse results.
-      item4:
-        text: Create documentation specifying software architecture and changes. Create CI/CD (Azure DevOps).
-      item5:
-        text: Review software requirements and help the team to prepare test scenarios. Execute tests on software usability. Analyze test results on database impacts, errors or bugs, and usability.
-      item6:
-        text: Participate in design reviews and provide input on requirements, product design, and potential problems.
-      item7:
-        text: Prepare reports on all aspects related to the software testing carried out and reporting to the design team.
-      item8:
-        text: Automate release management. Work on ways to automate and improve development and release processes.
-      item9:
-        text: Work with software developers and software engineers to ensure that development follows.
-      item10:
-        text: Provide Database modelling and data structure.
-      item11:
-        text: Install, configure, and monitor SQL Server instances (SQL Azure). Recover Databases with minimal data loss in case of disaster.
-      item12:
-        text: Monitor and Tune Database Performance. Create Automation for Applicable Database Tasks.
-      item13:
-        text: Achievements - Successfully meet both technical and consumer needs.
+      item0: 
+        text: Designed and developed full-stack applications with C# and Angular.
+      item1: 
+        text: Created and managed SQL Server databases and Azure SQL solutions.
+      item2: 
+        text: Configured CI/CD pipelines in Azure DevOps and automated deployments.
+      item3: 
+        text: Performed system tuning, testing, and documentation.
+      item4: 
+        text: Achievement - Delivered mission-critical applications for ChampionX and ONS, improving operational efficiency.
     link: http://www.radixeng.com.br/
   item3:
     position: Software Developer
@@ -96,22 +81,14 @@ experience:
     from: September 2017
     to: April 2019
     description:
-      item0:
-        text: Supported B2B clients on the provided cloud services development products such as Itaú, Serasa Experian, Boa Vista SCPC, Boa Consulta, PayPal, LATAM, and Certisign.
-      item1:
-        text: Developed and administered automated processes, APIs to generate reports and business intelligence solutions. Directed software programming and documentation development.
-      item2:
-        text: Developed cloud services such as Amazon Web Services and Microsoft Azure. Developed automated processes to generate reports and business intelligence solutions. Services development based on the cloud.
-      item3:
-        text: Modified software to fix errors, adapted it to new hardware, improved its performance, or upgraded interfaces. Used cloud services, such as Amazon Web Services (S3, SQS, EC2).
-      item4:
-        text: Installed and configured SQL Server instances and NoSQL instances.
-      item5:
-        text: Analyzed information to recommend and plan modifications of an existing system.
-      item6:
-        text: Consulted with engineering staff to evaluate software-hardware development specifications and performance requirements. Directed system testing and validation procedures.
-      item7:
-        text: Designed and developed software systems using scientific analysis and mathematical models to predict and measure outcomes and design consequences.
+      item0: 
+        text: Developed cloud services and APIs for clients such as Itaú, PayPal, and LATAM.
+      item1: 
+        text: Built distributed storage systems for public data, news, and marketplace intelligence.
+      item2: 
+        text: Maintained SQL Server and NoSQL databases, ETL pipelines, and monitoring tools.
+      item3: 
+        text: Achievement - Designed scalable solutions that reduced client costs by 50% and supported multimillion-dollar contracts.
     link: https://bigdatacorp.com.br/
   item4:
     position: Developer Internship
@@ -119,13 +96,30 @@ experience:
     from: November 2014
     to: September 2017
     description:
-      item0:
-        text: Analysed, debugged, and developed scripts for the optimization of import and export records. Debugged and developed scripts for the optimization of import and export records.
+      item0: 
+        text: Supported development of internal software systems and automation scripts.
+      item1: 
+        text: Assisted in database optimization and record management systems.
+      item2: 
+        text: Achievement - Helped achieve full digital inventory management of assets.
     link: https://portal.fiocruz.br/
 
 
 # Education section
 education:
+  item0:
+    institution: Technological University of the Shannon (TUS) | Ireland
+    program: MSc in Software Design with Cloud Native Computing
+    description: >
+
+      Modules:
+         Microservices & containerized applications (Docker, Kubernetes)
+       | Continuous Integration and Continuous Delivery (CI/CD) and DevOps automation
+       | Object-Oriented Programming & Applied Scripting
+       | Software architecture & team-based engineering projects
+       | Research methods, professional practice, and dissertation/industry placement
+    from: September 2025
+    to: September 2026
   item1:
     institution: Military Institute of Engineering - IME | RJ,Brazil
     program: Master in Information Technology
@@ -190,12 +184,6 @@ tools:
   item16:
     img: javascript
     title: javascript
-  item17:
-    img: css
-    title: css
-  item18:
-    img: html
-    title: Html
   item19:
     img: bash
     title: bash
@@ -224,24 +212,28 @@ menu:
 
 
 extra_skills:
-  - Dependency Management - Pip, NuGet, Yarn, and NPM.
-  - Methodologies - Scrum, Agile.
-  - Operational Systems - Linux and Windows.
-  - Frameworks and Specifications - Flask, VueJs and RESTful.
-  - Persistence Frameworks - ORM, Entity Frameworks, and Hibernate.
-  - Others - TDD, DDD, Docker, Azure Portal (AppService, Azure Function, Data Factories, App Insights, VM, Databases), AWS (S3, SQS, EC2), NServiceBus, Octopus Deploy, and TeamCity.
-
+  - Cloud - Microsoft Azure (App Services, Azure Functions, Service Bus, ADF), AWS (EC2, S3, SQS)  
+  - DevOps - CI/CD, Azure DevOps, GitLab, TeamCity, Octopus Deploy
+  - Architecture - Microservices, Event-driven, RESTful APIs, Cloud-Native Systems
+  - Testing - Unit testing, Integration testing, TDD
+  - Methodologies - Scrum, Agile, Clean Code, SOLID principles
 
 
 # Talks and workshops section
 workshops:
   item0:
     event: >
+      AWS Summit London
+    workshop: The AWS Summit London is our largest free cloud technology event in the UK, April 2024.
+    material:
+    link: https://aws.amazon.com/events/summits/london/
+  item1:
+    event: >
       Microsoft Azure Virtual Training Day: Data Fundamentals
     workshop: Microsoft Online Training Day, September 2024.
     material:
     link: https://events.microsoft.com/
-  item1:
+  item2:
     event: >
       GitHub and Azure: Better Together!
     workshop: Microsoft Online Training Day, September 2024.
@@ -250,6 +242,18 @@ workshops:
 
 # Projects section
 projects:
+  item11:
+      title: Design Patterns in csharp
+      subtitle: " "
+      description: Design Patterns in csharp - Course
+      github: https://github.com/iamgilvan/design-patterns-in-csharp
+      tags: [Csharp]
+  item10:
+      title: Object Oriented Programming with Python
+      subtitle: " "
+      description: Object Oriented Programming with Python - Course
+      github: https://github.com/iamgilvan/oop_python
+      tags: [Python]
   item5:
     title: Blind-75-Must-Do-Leetcode
     subtitle: Programming Interview Questions
