@@ -9,10 +9,10 @@ profile:
     phone: +353 083 206 9111
   email: gilvan.praxedes@outlook.com
   description: >
-    Experienced bilingual professional (Portuguese and English) with a BSc in Computer Science and over 8 years of experience in software development, full-stack, DevOps, SQL database management, and client support for multinational companies such as Wood Group, Johnson & Johnson, ChampionX, Nalco, Itaú, PayPal, LATAM, Certisign, and ONS.  
-    I am currently pursuing an MSc in Software Design with Cloud Native Computing at the Technological University of the Shannon (TUS), Ireland, focused on modern cloud-native architectures, DevOps practices, and scalable software systems.
-    I have strong skills in C#, Python, front-end frameworks (Angular, Vue, React), TypeScript, SQL, and I am familiar with cloud platforms such as AWS and Azure. I have also worked with MongoDB, SQL Server, MySQL, and have experience in unit and API testing, software architecture, and team-based engineering projects.  
-    Passionate about continuous learning, I enjoy tackling challenges, improving systems, and delivering solutions that enhance user experience and performance.
+    Experienced bilingual professional (Portuguese and English) with a BSc in Computer Science and over 8 years of experience in software development, DevOps, database management, and client support for multinational companies such as Wood Group, Johnson & Johnson, Itaú, PayPal, and LATAM.
+    Currently pursuing an MSc in Software Design with Cloud Native Computing, focusing on microservices, Docker, and CI/CD practices in AWS, Heroku and Azure environments.
+    Skilled in C#, Python, Bash, and modern front-end frameworks (Angular, Vue, React), with strong experience in cloud platforms (AWS, Azure) and containerized solutions using Docker. 
+    Adept at designing scalable systems, automating deployments, and optimizing performance. Experienced in global multi-site collaboration, balancing independent problem-solving with strong teamwork and quick adaptability through continuous self-learning.
 
 
 
@@ -31,13 +31,13 @@ experience:
     to: Present
     description:
       item0: 
-        text: Designed and developed APIs and web applications with focus on scalability and responsiveness.
+        text: Designed and developed APIs and web applications with focus on scalability and reliability.
       item1: 
         text: Collaborated in design reviews and contributed to product requirements and architecture.
       item2: 
-        text: Automated release and deployment processes to improve efficiency.
+        text: Automated build and deployment pipelines using Jenkins and Gitlab to streamline releases.
       item3: 
-        text: Provided database modeling and data structure support.
+        text: Adopted and promoted DevOps best practices, improving delivery speed and deployment consistency.
       item4: 
         text: Achievement - Delivered solutions that met both technical and client needs.
     link: https://www.screendragon.com/
@@ -54,8 +54,10 @@ experience:
       item2: 
         text: Built RESTful APIs and improved system performance (60% faster load times).
       item3: 
-        text: Automated build and deployment processes with TeamCity and Octopus Deploy.
+        text: Implemented automated build and deployment pipelines using TeamCity and Octopus Deploy.
       item4: 
+        text: Containerized applications with Docker for consistent environments across dev and production.
+      item5: 
         text: Achievement- Improved performance and maintainability of enterprise systems for clients like Johnson & Johnson and Wood Group.
     link: https://www.version1.com/
   item2:
@@ -71,7 +73,7 @@ experience:
       item2: 
         text: Configured CI/CD pipelines in Azure DevOps and automated deployments.
       item3: 
-        text: Performed system tuning, testing, and documentation.
+        text: Delivered mission-critical applications that improved operational efficiency and reliability.
       item4: 
         text: Achievement - Delivered mission-critical applications for ChampionX and ONS, improving operational efficiency.
     link: http://www.radixeng.com.br/
@@ -117,7 +119,8 @@ education:
        | Continuous Integration and Continuous Delivery (CI/CD) and DevOps automation
        | Object-Oriented Programming & Applied Scripting (java/Python)
        | Software architecture & team-based engineering projects
-       | Research methods, professional practice, and dissertation/industry placement
+       | Research methods, professional practice, and dissertation/industry placement.
+       Current focus: AWS services (EC2, ALB, ASG, RDS, SNS, CloudWatch, Launch Templates), Docker, Kubernets, and CI/CD automation.
     from: September 2025
     to: September 2026
   item1:
@@ -212,11 +215,18 @@ menu:
 
 
 extra_skills:
-  - Cloud - Microsoft Azure (App Services, Azure Functions, Service Bus, ADF), AWS (EC2, S3, SQS)  
-  - DevOps - CI/CD, Azure DevOps, GitLab, TeamCity, Octopus Deploy
-  - Architecture - Microservices, Event-driven, RESTful APIs, Cloud-Native Systems
-  - Testing - Unit testing, Integration testing, TDD
-  - Methodologies - Scrum, Agile, Clean Code, SOLID principles
+  - Programming - C#, Python, SQL, Bash, Groovy, and JavaScript.
+  - Databases - PostgreSQL, MySQL/MariaDB, MongoDB, and SQL Server.
+  - Cloud - AWS (EC2, ALB, ASG, RDS, S3, SQS, SNS, CloudWatch, Launch Templates), Azure (App Services, Functions, Service Bus, ADF, Monitor), Logz.io, Datadog.
+  - Infrastructure as Code - Terraform, Ansible (familiar with automation and provisioning).
+  - DevOps & CI/CD - Jenkins, Azure DevOps, GitHub Actions, Heroku, TeamCity, Octopus Deploy, CI/CD pipelines.
+  - Containerization - Docker, Docker Compose, Vagrant, Kubernetes (basic understanding).
+  - Version Control & Artifact Management - Git, Bitbucket, Artifactory.
+  - Build & Quality Tools - Gradle, Maven, SonarQube.
+  - Frameworks - .NET Core, ASP.NET, Angular, React, Vue.js.
+  - Operating Systems - Linux (Ubuntu, Debian, Satux) long-time user for development and scripting.
+  - Architecture & Methodologies - Microservices, RESTful APIs, Agile/Scrum, SOLID, Clean Code, TDD.
+
 
 
 # Talks and workshops section
