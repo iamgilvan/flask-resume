@@ -1,0 +1,264 @@
+site:
+  title: "Gilvan Almeida - Senior Full-Stack Engineer"
+  description: "Senior full-stack software engineer based in Cork, Ireland, building reliable web applications, APIs and cloud-native systems."
+  locale: "en_IE"
+  language: "en"
+  theme_color: "#01696f"
+  url: "https://www.whoisgilvanalmeida.com"
+
+profile:
+  name: "Gilvan Almeida"
+  initials: "GA"
+  role: "Senior Full-Stack Engineer"
+  location: "Cork, Ireland"
+  email: "gilvan.praxedes@outlook.com"
+  phone: "+353 83 206 9111"
+  availability: "Open to senior software engineering opportunities"
+  hero_image: "assets/images/gilvan-hero-editorial.png"
+  summary: >
+    I build reliable web applications and backend systems that turn complex business
+    needs into maintainable products. With more than eight years of experience across
+    full-stack development, cloud, DevOps and data platforms, I focus on practical
+    engineering, clear communication and continuous improvement.
+  socials:
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/gilvan-almeida/"
+      icon: "linkedin"
+    - label: "GitHub"
+      url: "https://github.com/iamgilvan"
+      icon: "github"
+  actions:
+    - label: "View LinkedIn"
+      url: "https://www.linkedin.com/in/gilvan-almeida/"
+      style: "primary"
+      icon: "linkedin"
+    - label: "Download CV"
+      url: "/download/cv"
+      style: "secondary"
+      icon: "download"
+    - label: "GitHub"
+      url: "https://github.com/iamgilvan"
+      style: "text"
+      icon: "github"
+
+about:
+  eyebrow: "About"
+  title: "Engineering with context, not just code."
+  content: >
+    I am a bilingual software engineer with experience delivering full-stack applications,
+    APIs, databases and deployment pipelines for multinational and enterprise environments.
+    I combine hands-on development with a pragmatic understanding of releases, production
+    support and user needs.
+  details:
+    - label: "Based in"
+      value: "Cork, Ireland"
+    - label: "Experience"
+      value: "9+ years"
+    - label: "Focus"
+      value: "Full-stack, cloud & delivery"
+    - label: "Languages"
+      value: "English & Portuguese"
+
+skills:
+  eyebrow: "Toolkit"
+  title: "A practical stack for building and shipping."
+  groups:
+    - name: "Languages"
+      skills:
+        - "C#"
+        - "Python"
+        - "Java"
+        - "JavaScript"
+        - "TypeScript"
+        - "SQL"
+    - name: "Frontend"
+      skills:
+        - "React"
+        - "Vue.js"
+        - "Angular"
+        - "HTML"
+        - "CSS"
+    - name: "Backend & data"
+      skills:
+        - ".NET"
+        - "REST APIs"
+        - "SQL Server"
+        - "PostgreSQL"
+        - "MongoDB"
+        - "MySQL"
+    - name: "Cloud & delivery"
+      skills:
+        - "Azure"
+        - "AWS"
+        - "Docker"
+        - "CI/CD"
+        - "Azure DevOps"
+        - "GitLab"
+        - "Jenkins"
+
+experience:
+  eyebrow: "Experience"
+  title: "Work shaped by delivery, reliability and real-world constraints."
+  entries:
+    - company: "Screendragon"
+      role: "Software Developer"
+      period: "Mar 2025 - Present"
+      location: "Ireland"
+      summary: >
+        Designing and developing APIs and web applications with a focus on scalability,
+        responsive user experiences and reliable delivery.
+      highlights:
+        - "Collaborate in design reviews, product requirements and architectural decisions."
+        - "Automate release and deployment processes to improve delivery efficiency."
+        - "Support database modelling and data structures for product features."
+      technologies:
+        - "APIs"
+        - "Web development"
+        - "SQL"
+        - "CI/CD"
+    - company: "Version 1"
+      role: "Full-Stack Developer / SQL Database Developer"
+      period: "Mar 2022 - Mar 2025"
+      location: "Ireland"
+      summary: >
+        Delivered enterprise front-end and back-end solutions for clients including
+        Johnson & Johnson and Wood Group.
+      highlights:
+        - "Built .NET Core and Vue.js components and RESTful APIs."
+        - "Designed and optimised SQL Server databases and ETL pipelines."
+        - "Improved application load times by 60% through performance work."
+        - "Automated build and deployment workflows with TeamCity and Octopus Deploy."
+      technologies:
+        - ".NET Core"
+        - "Vue.js"
+        - "SQL Server"
+        - "ETL"
+        - "TeamCity"
+        - "Octopus Deploy"
+    - company: "Radix Engineering and Software"
+      role: "Full-Stack Developer / DevOps Developer / SQL Database Admin"
+      period: "May 2019 - Feb 2022"
+      location: "Brazil"
+      summary: >
+        Built and operated mission-critical applications for industrial clients,
+        connecting full-stack delivery with cloud and database work.
+      highlights:
+        - "Developed full-stack applications with C# and Angular."
+        - "Managed SQL Server and Azure SQL solutions."
+        - "Configured Azure DevOps CI/CD pipelines and automated deployments."
+        - "Contributed to tuning, testing and technical documentation."
+      technologies:
+        - "C#"
+        - "Angular"
+        - "Azure SQL"
+        - "Azure DevOps"
+        - "CI/CD"
+    - company: "BigData Corp."
+      role: "Software Developer"
+      period: "Sep 2017 - Apr 2019"
+      location: "Brazil"
+      summary: >
+        Developed cloud services, APIs and data infrastructure for large clients in
+        finance, payments and travel.
+      highlights:
+        - "Built services and APIs for clients including Itaú, PayPal and LATAM."
+        - "Worked on distributed public-data storage and marketplace intelligence systems."
+        - "Maintained SQL Server, NoSQL, ETL and monitoring tooling."
+        - "Helped deliver solutions that reduced client costs by up to 50%."
+      technologies:
+        - "Python"
+        - "APIs"
+        - "SQL Server"
+        - "NoSQL"
+        - "ETL"
+
+education:
+  eyebrow: "Education"
+  title: "Learning anchored in software architecture and cloud-native delivery."
+  entries:
+    - institution: "Technological University of the Shannon"
+      qualification: "MSc in Software Design with Cloud Native Computing"
+      period: "Sep 2025 - Sep 2026"
+      location: "Ireland"
+      details: "Cloud-native systems, microservices, Docker, Kubernetes, CI/CD, DevOps automation and software architecture."
+    - institution: "Centro Universitário Carioca - Unicarioca"
+      qualification: "BSc in Computer Science"
+      period: "Jul 2013 - Dec 2018"
+      location: "Brazil"
+      details: "Computer science, information systems and software development foundations."
+
+projects:
+  eyebrow: "Selected work"
+  title: "Projects built to learn, solve and share."
+  entries:
+    - title: "THOR-WEB"
+      description: "A web application using a hybrid multicriteria decision-support algorithm for discrete alternatives."
+      tags:
+        - "Flask"
+        - "Python"
+        - "MongoDB"
+        - "Heroku"
+      url: "http://www.thor-web.com/"
+      featured: true
+    - title: "Currency Conversions API"
+      description: "A Python API for currency conversions using current exchange-rate data."
+      tags:
+        - "Python"
+        - "Flask"
+        - "MongoDB"
+        - "API"
+      url: "https://github.com/iamgilvan"
+      featured: false
+    - title: "TDD Python Example"
+      description: "A focused example project exploring unit testing practices with Python and Pytest."
+      tags:
+        - "Python"
+        - "Pytest"
+        - "TDD"
+      url: "https://github.com/iamgilvan"
+      featured: false
+    - title: "Blind 75 - LeetCode"
+      description: "A curated repository of core programming interview problems and solutions."
+      tags:
+        - "Python"
+        - "Algorithms"
+        - "Data structures"
+      url: "https://github.com/iamgilvan"
+      featured: false
+
+contact:
+  eyebrow: "Contact"
+  title: "Let’s build something reliable."
+  body: >
+    I am open to senior full-stack, software engineering and cloud-native opportunities.
+    The best way to start a conversation is by email or LinkedIn.
+  email: "gilvan.praxedes@outlook.com"
+  linkedin: "https://www.linkedin.com/in/gilvan-almeida/"
+
+footer:
+  note: "Designed and built by Gilvan Almeida."
+  copyright: "© 2026 Gilvan Almeida"
+
+ui:
+  available: "Available for opportunities"
+  navigation:
+    about: "About"
+    skills: "Skills"
+    experience: "Experience"
+    projects: "Projects"
+    contact: "Contact"
+  hero:
+    focus: "Focus"
+    languages: "Languages"
+    photo_caption: "Software · Cloud · Delivery"
+  actions:
+    view_project: "View project"
+    view_linkedin: "View LinkedIn"
+    download_cv: "Download CV"
+  accessibility:
+    skip_to_content: "Skip to content"
+    navigation_label: "Primary navigation"
+    switch_language: "Switch language"
+    switch_to_dark: "Switch to dark mode"
+    switch_to_light: "Switch to light mode"
+    open_navigation: "Open navigation"
